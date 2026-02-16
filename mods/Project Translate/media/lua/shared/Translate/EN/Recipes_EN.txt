@@ -87,6 +87,15 @@ Recipe_70roadRunnerMakeReinforcedFrontBumper = "Make 70 Plymouth Road Runner Rei
 Recipe_70roadRunnerMakeRearBumper = "Make 70 Plymouth Road Runner Rear Bumper"
 Recipe_70roadRunnerMakeSmallVintageRoofrack = "Make Small Vintage Roofrack"
 
+# ========== '85 Pontiac Parisienne ==========
+Recipe_85pontiacParisienneMakeHood = "Make 85 Pontiac Parisienne Hood"
+Recipe_85pontiacParisienneMakeTrunkLid = "Make 85 Pontiac Parisienne Trunk Lid"
+Recipe_85pontiacParisienneMakeFrontSeat = "Make 85 Pontiac Parisienne Front Seat"
+Recipe_85pontiacParisienneMakeRearSeat = "Make 85 Pontiac Parisienne Rear Seat"
+Recipe_85pontiacParisienneMakeFrontBumper = "Make 85 Pontiac Parisienne Front Bumper"
+Recipe_85pontiacParisienneMakeReinforcedFrontBumper = "Make 85 Pontiac Parisienne Reinforced Front Bumper"
+Recipe_85pontiacParisienneMakeRearBumper = "Make 85 Pontiac Parisienne Rear Bumper"
+
 # ========== '86 Oshkosh P19A + Military Trailers ==========
 Recipe_86oshkoshP19AMakeHood = "Make 86 Oshkosh P19A Hood"
 Recipe_86oshkoshP19AMakeFrontDoor = "Make 86 Oshkosh P19A Front Door"

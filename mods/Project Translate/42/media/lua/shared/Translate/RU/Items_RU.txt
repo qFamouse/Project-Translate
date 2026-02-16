@@ -115,6 +115,14 @@ DisplayName_Splitting_Axe = "Топор-колун"
 DisplayName_Spear_With_Survival_Knife = "Копье с ножом выживания"
 DisplayName_Spear_With_Cheap_Survival_Knife = "Копье с дешевым ножом выживания"
 
+# ========== Building Menu [B41.78] ==========
+DisplayName_PanWithGlassShards = "Сковорода с осколками стекла"
+DisplayName_PanWithGlassPane = "Сковорода со стеклянной панелью"
+DisplayName_GlassPane = "Стеклянная панель"
+DisplayName_BMMagazineGlass = "Кухонные печи Handyman Corner"
+DisplayName_BMMagazineCars = "Точные автомобильные стёкла и крафт"
+DisplayName_BMMagazineSecretEntrances = "Secret Passageways Monthly"
+
 # ========== Snake's ModPack - Le Gourmet Revolution V2.09 ==========
 DisplayNameWater_Pop_Can = "Банка из-под напитка с водой"
 DisplayNameWater_Tin_Can = "Банка из-под консервов с водой"
@@ -499,6 +507,9 @@ DisplayNameMelisa_Tea_Bag = "Чайный пакетик с мелиссой"
 DisplayNameFilter_Paper_Bag = "Пустой чайный пакетик"
 DisplayNameBox_Filter_Paper_Bag = "Коробка пустых чайных пакетиков"
 DisplayNameMagnifying_Glass = "Увеличительное стекло"
+DisplayNameMov_WallDiana = "Настенная мишень Диана"
+DisplayNameRoasting_Pan_Ham_Meat = "Жаровня с ветчиной"
+DisplayNameMov_woodenbucket = "Деревянное ведро"
 
 # ========== An Exhilaratingly Organized Lit Mod 1: Better Sorting ==========
 DisplayName_Knox_Country_Map = "Карта округа Нокс"
@@ -542,6 +553,7 @@ DisplayNameTailor_Magazine = "Журнал «Портной»"
 DisplayNameAmmo_Reloading_Magazine = "Журнал «Искусство боеприпасов»"
 DisplayNameThe_Hunting_Magazine = "Журнал «Охотник»"
 DisplayNameSkills_Mags_Package = "Упаковка журналов"
+DisplayNameThe_Masonry_Magazine = "Журнал "Строительные рабочие""
 
 # ========== Smoker ==========
 DisplayName_Empty_Lighter = "Пустая зажигалка"
@@ -598,6 +610,7 @@ DisplayName_Smoking_Pipe_filled_with_Smoking_Blend = "Трубка с курит
 DisplayName_Smoking_Device_with_Smoking_Blend = "Сухой больбулятор с курительной смесью"
 
 # ========== Snake's ModPack - Table Saw V.1.11 ==========
+DisplayNameElectronics_Scrap_Box = "Ящик электронного лома"
 DisplayNameEngine = "Старый двигатель"
 DisplayNameSaw_blade = "Круглая пила"
 DisplayName6_planks_stack = "Палета из 6 досок"
@@ -643,12 +656,16 @@ DisplayName44_Crate = "Уникальный ящик (.44 «Магнум»)"
 DisplayName223_Crate = "Уникальный ящик (.223)"
 DisplayName308_Crate = "Уникальный ящик (.308)"
 DisplayName556_Crate = "Уникальный ящик (5.56мм)"
+DisplayName762_Crate = "Уникальный ящик (.762)"
 DisplayNameShells_Crate = "Уникальный ящик (Патрон с картечью)"
+DisplayNameBee_Crate = "Особый ящик (пчеловодство)"
 DisplayNameWater_Paint_Bucket_Dirty = "Ведро из-под краски с грязной водой"
 DisplayNameWater_Paint_Bucket = "Ведро из-под краски с водой"
 DisplayNameMystery_Magazine_1 = "«Уникальная краска» (Ditoseadio)"
 DisplayNameMystery_Magazine_2 = "«Уникальная краска» («Army»)"
 DisplayNameMystery_Magazine_3 = "«Уникальная краска» («Bullets»)"
+DisplayNameMystery_Magazine_4 = ""Уникальная краска" (4fungamingg)"
+DisplayNameMystery_Magazine_5 = ""Уникальная краска" (пчеловодство)"
 DisplayNameDito_Crate = "Уникальный ящик (Ditoseadio)"
 DisplayNameArmy_Crate = "Уникальный ящик («Army»)"
 DisplayNameDyes_Magazine = "Журнал «Красители»'"
@@ -686,6 +703,7 @@ DisplayNameBaseball_Bat_With_Saw = "Бейсбольная бита с пило�
 DisplayNameBaseball_Bat_With_Wire = "Бейсбольная бита с колючей проволокой"
 DisplayNameWooden_Club = "Деревянная дубина"
 DisplayNameMetal_Spikes = "Металлические шипы"
+DisplayName4fun_Crate = "Уникальный ящик (4fungamingg)"
 
 # ========== Tactical Weapons ==========
 DisplayName_Carbon_Fiber_Hockey_Stick = "Углеродная Хоккейная Клюшка"
@@ -710,6 +728,7 @@ DisplayNameSponge_tube = "Губчатая трубка"
 DisplayNameWeapons_Magazine = "Журнал «Оружие» №1"
 DisplayNameWeapons_Magazine_2 = "Журнал «Оружие» №2"
 DisplayNameWeapons_Magazine_3 = "Журнал «Оружие» №4"
+DisplayNameWeapons_Magazine_4 = "Журнал об оружии №4"
 DisplayNameTactical_Light = "Тактический фонарь"
 DisplayNamePistol_heavy_barrel = "Тяжёлая пистолетная рукоять"
 DisplayNameRear_Cover_Grip = "Затыльник-амортизатор"
@@ -781,6 +800,9 @@ DisplayNameM16_Laser = "Лазер от M16"
 DisplayNameM16_Hand_Grip = "Рукоять от M16"
 DisplayNameM16_Reflex_Sight = "Рефлекторый прицел от M16"
 DisplayNameM16_x4_Scope = "Прицел x4 от M16"
+DisplayNameHiTech_Slide = "Hi-Tech затвор"
+DisplayNameHi_Tech_Cylinder = "Hi-Tech барабан"
+DisplayNameHi_Tech_Straight_pull_bolt = "Hi-Tech прямой затвор"
 
 # ========== Snake's ModPack - ZAW Evolution 0.2 ==========
 DisplayName6_planks_stack = "Связка из 6 досок"

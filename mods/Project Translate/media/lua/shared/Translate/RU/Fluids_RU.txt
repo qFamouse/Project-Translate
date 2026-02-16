@@ -32,3 +32,9 @@ Fluid_Container_GymBottle = "Бутылка для спортзала"
 
 # ========== Long Term Preservation Extended [UI Tweak Patch] ==========
 Fluid_Name_JuicedFruits = "Фруктовый сок"
+
+# ========== that DAMN Library ==========
+Fluid_Container_MilitaryGasCan = "Военная канистра"
+Fluid_Container_MilitaryWaterCan = "Военная фляга"
+Fluid_Container_MilitaryGasCan = "Военная канистра"
+Fluid_Container_MilitaryWaterCan = "Военная канистра для воды"

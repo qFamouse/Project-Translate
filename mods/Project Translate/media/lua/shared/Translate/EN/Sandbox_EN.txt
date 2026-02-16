@@ -285,9 +285,17 @@ Sandbox_DAMN_AllowWreckyMcChevySpawns = "Enable preset '76 Chevrolet C30 Wrecker
 Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns"
 Sandbox_DAMN_AllowManlyMANSpawns = "Enable preset '80 MAN KAT1 spawns"
 
+# ========== '81 DeLorean DMC-12 ==========
+Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns"
+Sandbox_DAMN_AllowGreatScottSpawns = "Enable preset '81 DeLorean DMC-12 spawns"
+
 # ========== '84 Cadillac Gage LAV-300 ==========
 Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns"
 Sandbox_DAMN_AlLAVSpawns = "Enable preset '84 Cadillac Gage LAV-300 spawns"
+
+# ========== '85 Club Car Golf Cart ==========
+Sandbox_DAMN_Spawns = "KI5 | Guaranteed spawns"
+Sandbox_DAMN_AllowfUNSpawns = "Enable preset '85 Club Man spawns"
 
 # ========== '87 Ford B700/F700 Trucks ==========
 Sandbox_DAMN_AllowMrBusSpawns = "Enable preset '87 Ford B700 spawns"
@@ -5033,10 +5041,6 @@ Sandbox_JordanalSpawns = "Jordanal's Spawn"
 Sandbox_JordanalSpawns = "Jordanal's Spawn"
 
 # ========== that DAMN Library ==========
-Sandbox_DAMN_Options = "damnlib | Options"
-Sandbox_DAMN_AllowVanillaVehicleDismantling = "Enable vanilla vehicle part recycling"
-Sandbox_DAMN_AllowVanillaWorldItemDismantling = "Enable house windows and mirrors recycling"
-Sandbox_DAMN_Spawns = "KI5 | Preset spawns"
 Sandbox_DAMN_Options = "damnlib | Options"
 Sandbox_DAMN_AllowVanillaVehicleDismantling = "Enable vanilla vehicle part recycling"
 Sandbox_DAMN_AllowVanillaWorldItemDismantling = "Enable house windows and mirrors recycling"

@@ -93,5 +93,11 @@ MultiStageBuild_BrickDoorFrame_13 = "Завершить кирпичную дв�
 MultiStageBuild_BrickDoorFrame_14 = "Завершить кирпичную дверную раму (Жёлтая)"
 MultiStageBuild_BrickDoorFrame_15 = "Завершить кирпичную дверную раму (Коричневая)"
 
+# ========== Improved Build Menu [Build 41.51+] (basic) ==========
+MultiStageBuild_UpgradeMetalDoorFrame_1To2 = "Улучшить до металлической дверной рамы ур. 2"
+
 # ========== Improved Build Menu [Build 41.50] (old) ==========
+MultiStageBuild_UpgradeMetalDoorFrame_1To2 = "Улучшить до металлической дверной рамы ур. 2"
+
+# ========== Improved Build Menu [Build 41.51+] (no itemtweak) ==========
 MultiStageBuild_UpgradeMetalDoorFrame_1To2 = "Улучшить до металлической дверной рамы ур. 2"
