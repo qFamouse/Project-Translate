@@ -1,3 +1,12 @@
-name=Project Translate
-id=ProjectTranslate
-poster=preview.png
+name=Project Translate [Universal]
+id=ProjectTranslate_Universal
+description=A unified translation mod for multiple mods. Must be loaded LAST in the mod load order.\n\nSupported languages: English, Русский\nTotal mods: 344
+author=Famouse
+version=1.1.0
+modversion=1.1.0
+zomboidversion=42.13.0.**
+pzversion=41.78
+homepage=https://github.com/qFamouse/Project-Translate
+url=https://steamcommunity.com/sharedfiles/filedetails/?id=3667412063
+workshopid=3667412063
+poster=poster.png
