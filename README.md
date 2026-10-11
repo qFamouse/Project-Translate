@@ -1,4 +1,4 @@
-![Preview](https://github.com/user-attachments/assets/4cc469e4-be48-4e59-90db-1fb8a13275c2)
+![Preview](https://github.com/user-attachments/assets/0f9cb915-452b-491b-9902-000ac3a934ab)
 
 ## 💡 О проекте
 
