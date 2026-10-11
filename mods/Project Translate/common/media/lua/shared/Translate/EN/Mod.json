@@ -1,0 +1,3 @@
+{
+  "description": "Project Translate localizes Project Zomboid mods. It adds missing translations to other mods. The main goal of the project is to provide translations for most existing mods in your native language, without having to look for separate language packs. <LINE> <LINE> The original author's localization always takes priority: it is never replaced, even if it contains inaccuracies, and our text is added only where there is no translation into your language. Because of this, load order does not matter."
+}
