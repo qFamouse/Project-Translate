@@ -1,0 +1,6 @@
+{
+  "Sandbox_LS_Hygiene_CleanClogged": "Hygiène - Nettoyer les installations bouchées",
+  "Sandbox_LS_Hygiene_CleanClogged_tooltip": "Les toilettes et autres installations peuvent être nettoyées même lorsqu'elles sont bouchées.",
+  "Sandbox_LS_Hygiene_OuthouseRange": "Hygiène - Portée des latrines",
+  "Sandbox_LS_Hygiene_OuthouseRange_tooltip": "Distance XY en cases occupée par chaque latrine."
+}

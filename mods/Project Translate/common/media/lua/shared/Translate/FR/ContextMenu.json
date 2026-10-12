@@ -1,0 +1,10 @@
+{
+  "ContextMenu_Improvements_ImprovTab": "Améliorations",
+  "ContextMenu_InvNeuralHat_Overdrive": "Surcadencer (%1/%2)",
+  "ContextMenu_InvNeuralHat_Overdrive_Off": "Désactiver",
+  "ContextMenu_Inventions_AddBattery": "Ajouter une source d'alimentation (%1)",
+  "ContextMenu_Inventions_RemoveBattery": "Retirer la source d'alimentation (%1/%2",
+  "ContextMenu_Toilet_Refill": "Remplir",
+  "ContextMenu_Toilet_Wooden_NoUses": "Fosse pleine",
+  "ContextMenu_Toilet_Wooden_Occupied": "Zone bloquée"
+}

@@ -1,0 +1,8 @@
+{
+  "Sandbox_LS_Art_GeneralBeautyMultiplier": "Güzellik Puanı - Çarpan",
+  "Sandbox_LS_Art_GeneralBeautyMultiplier_tooltip": "Oyuncu sanat eserleri hariç tüm karoların varsayılan güzellik değerini değiştirir.",
+  "Sandbox_LS_Hygiene_CleanClogged": "Hijyen - Tıkanmış Armatürleri Temizle",
+  "Sandbox_LS_Hygiene_CleanClogged_tooltip": "Tuvaletler ve diğer armatürler tıkalıyken bile temizlenebilir.",
+  "Sandbox_LS_Hygiene_OuthouseRange": "Hijyen - Dışarı Tuvaleti Menzili",
+  "Sandbox_LS_Hygiene_OuthouseRange_tooltip": "Her dışarı tuvaletinin kapladığı karo cinsinden XY mesafesi."
+}

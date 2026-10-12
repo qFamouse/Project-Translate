@@ -1,0 +1,12 @@
+{
+  "ContextMenu_Disco_Mode_circles": "Círculos",
+  "ContextMenu_Disco_Mode_default": "Padrão",
+  "ContextMenu_Disco_Mode_gold": "Dourado",
+  "ContextMenu_Disco_Mode_rainbow": "Arco-Íris",
+  "ContextMenu_Disco_Mode_random": "Aleatório",
+  "ContextMenu_Disco_Mode_shuffle": "Embaralhar",
+  "ContextMenu_Disco_Mode_spots": "Pontos",
+  "ContextMenu_Disco_Mode_valentine": "Romântico",
+  "ContextMenu_Inventions_AddBattery": "Adicionar fonte de energia (%1)",
+  "ContextMenu_Inventions_RemoveBattery": "Remover fonte de energia (%1/%2"
+}
