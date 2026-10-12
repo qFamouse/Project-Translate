@@ -607,7 +607,7 @@
 
 **Вы можете помочь:**
 
-- ⭐ Оставить лайк на [странице мода](https://steamcommunity.com/sharedfiles/filedetails/?id=3667412063) и звезду на [GitHub](https://github.com/qFamouse/Project-Translate)
+- ⭐ Оставить лайк на [странице мода](https://steamcommunity.com/sharedfiles/filedetails/?id=3817970320) и звезду на [GitHub](https://github.com/qFamouse/Project-Translate)
 - 💬 Дать обратную связь по качеству переводов
 - 📝 Предложить моды, которые вы хотели бы видеть в списке поддерживаемых
 - 🐛 Сообщить о багах или неточностях в переводе
