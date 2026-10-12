@@ -1,0 +1,3 @@
+{
+  "description": "A Project Translate a Project Zomboidhoz készült modokat lokalizálja. Pótolja a többi modból hiányzó fordításokat. A projekt fő célja, hogy a legtöbb létező modhoz biztosítson fordítást az anyanyelveden, anélkül, hogy külön nyelvi csomagokat kellene keresned. <LINE> <LINE> Az eredeti szerző lokalizációja mindig elsőbbséget élvez: soha nem cserélődik le, még akkor sem, ha pontatlanságokat tartalmaz, a mi szövegünk pedig csak ott kerül hozzáadásra, ahol nincs fordítás a nyelvedre. Ezért a betöltési sorrend nem számít."
+}

@@ -1,0 +1,3 @@
+{
+  "description": "O Project Translate localiza os mods de Project Zomboid. Ele adiciona traduções que faltam a outros mods. O principal objetivo do projeto é oferecer tradução para a maioria dos mods existentes no seu idioma nativo, sem precisar procurar pacotes de idioma separados. <LINE> <LINE> A localização do autor original sempre tem prioridade: ela nunca é substituída, mesmo que tenha imprecisões, e o nosso texto só é adicionado onde não existe tradução para o seu idioma. Por isso, a ordem de carregamento não importa."
+}
