@@ -1,5 +1,7 @@
 {
   "Fluid_Container_AliceCanteen": "Cantimplora ALICE",
+  "Fluid_Container_AquaBottle": "Botella con agua",
+  "Fluid_Container_AuthenticCanteen": "Cantimplora",
   "Fluid_Container_BeerMug": "Jarra de cerveza",
   "Fluid_Container_BottleEngineCoolant": "Botella de refrigerante para motor",
   "Fluid_Container_BottleEngineLubricant": "Botella de lubricante para motor",
@@ -7,12 +9,14 @@
   "Fluid_Container_CocktailMixer": "Mezclador",
   "Fluid_Container_FrenchPress": "Cafetera de émbolo",
   "Fluid_Container_FryingPan": "Sartén",
+  "Fluid_Container_GymBottle": "Botella de gimnasio",
   "Fluid_Container_LowballGlass": "Vaso bajo",
   "Fluid_Container_MilitaryGasCan": "Bidón de gasolina militar",
   "Fluid_Container_MilitaryWaterCan": "Bidón de agua militar",
   "Fluid_Container_MugMetal": "Taza de metal",
   "Fluid_Container_OilBottle": "Botella de aceite",
   "Fluid_Container_OilPan": "Sartén para aceite",
+  "Fluid_Container_ResidentEvilBackPack": "ResidentEvil BackPack",
   "Fluid_Container_Thermos": "Termo",
   "Fluid_Container_WokPan": "Wok",
   "Fluid_Name_AmericanoCoffee": "Café americano",
@@ -44,6 +48,9 @@
   "Fluid_Name_MochaCoffee": "Café moca",
   "Fluid_Name_NBCSolution": "Solución NBC",
   "Fluid_Name_ProteinShake": "Batido de proteínas",
+  "Fluid_Name_Resin": "Resina de pino",
+  "Fluid_Name_Sap": "Savia",
   "Fluid_Name_SapphCachaca": "Cachaça",
-  "Fluid_Name_SapphSake": "Sake"
+  "Fluid_Name_SapphSake": "Sake",
+  "Fluid_Name_SeaWater": "Agua de mar"
 }
