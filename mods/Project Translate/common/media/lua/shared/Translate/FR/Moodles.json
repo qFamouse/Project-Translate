@@ -2,5 +2,10 @@
   "Moodles_Dunce_L1": "Cancre",
   "Moodles_Dunce_L1_desc": "Quelque chose vous tire vers le bas, rendant l'apprentissage et la lecture plus difficiles qu'ils ne devraient l'être.",
   "Moodles_NeuralHat_L1": "Boost mental",
-  "Moodles_NeuralHat_L1_desc": "Vous ressentez un regain de puissance cérébrale. Apprendre et lire devraient être un jeu d'enfant."
+  "Moodles_NeuralHat_L1_desc": "Vous ressentez un regain de puissance cérébrale. Apprendre et lire devraient être un jeu d'enfant.",
+  "Moodles_PZTheMutants_Puked_Desc1": "L'odeur s'estompe, mais vous attirez encore les zombies proches. Lavez-vous.",
+  "Moodles_PZTheMutants_Puked_Desc2": "Vous puez encore assez pour attirer les zombies. Lavez-vous.",
+  "Moodles_PZTheMutants_Puked_Desc3": "Vous êtes couvert de vomi, et l'odeur attire les zombies. Lavez-vous.",
+  "Moodles_PZTheMutants_Puked_Desc4": "Vous êtes trempé de vomi. L'odeur attire les zombies. Lavez-vous.",
+  "Moodles_PZTheMutants_Puked_Title": "Vomi dessus"
 }
