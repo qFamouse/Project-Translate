@@ -1,5 +1,7 @@
 ![Preview](https://github.com/user-attachments/assets/0f9cb915-452b-491b-9902-000ac3a934ab)
 
+**Русский** · [English](i18n/README.EN.md) · [简体中文](i18n/README.CN.md) · [Español](i18n/README.ES.md) · [Português (Brasil)](i18n/README.PTBR.md) · [Deutsch](i18n/README.DE.md) · [Français](i18n/README.FR.md) · [Türkçe](i18n/README.TR.md) · [Polski](i18n/README.PL.md) · [日本語](i18n/README.JP.md) · [한국어](i18n/README.KO.md) · [Italiano](i18n/README.IT.md) · [Українська](i18n/README.UA.md) · [繁體中文](i18n/README.CH.md) · [ไทย](i18n/README.TH.md) · [Čeština](i18n/README.CS.md) · [Nederlands](i18n/README.NL.md) · [Magyar](i18n/README.HU.md) · [Bahasa Indonesia](i18n/README.ID.md) · [Română](i18n/README.RO.md) · [Português](i18n/README.PT.md) · [Dansk](i18n/README.DA.md) · [Suomi](i18n/README.FI.md) · [Norsk](i18n/README.NO.md) · [Español (Argentina)](i18n/README.AR.md) · [Tagalog](i18n/README.PH.md) · [Català](i18n/README.CA.md)
+
 ## 💡 О проекте
 
 **Один мод для перевода всех остальных.** Цель — в один клик получить полноценный атмосферный геймплей с сотнями модификаций на вашем языке. Никаких разрозненных паков, поиска совместимости или потери контента из-за языкового барьера. Задумка глобальная — переводы на все популярные языки.
@@ -10,17 +12,19 @@
 
 ## 📊 Статистика
 
-**🧩 Модификаций:** 840
+**🧩 Модификаций:** <!-- stat:mods -->840<!-- /stat -->
 
-**📝 Строк в модах:** 132,450
+**📝 Строк в модах:** <!-- stat:lines -->132,450<!-- /stat -->
 
-**✍️ Наших переводов:** 819,963
+**✍️ Наших переводов:** <!-- stat:ours -->819,963<!-- /stat -->
 
-**🌐 Языков с нашими переводами:** 27
+**🌐 Языков с нашими переводами:** <!-- stat:langs -->27<!-- /stat -->
 
 ## Покрытие по языкам
 
-«Готово» — доля строк с текстом автора на EN (121 779 из 132 450), у которых есть текст на языке: автора или наш. Сам EN — от всех строк.
+«Готово» — доля строк с текстом автора на EN (<!-- stat:en -->121,779<!-- /stat --> из <!-- stat:lines -->132,450<!-- /stat -->), у которых есть текст на языке: автора или наш. Сам EN — от всех строк.
+
+<!-- table:coverage -->
 
 | Язык | Готово | У автора | Наших | Нет | Модов целиком |
 |---|---:|---:|---:|---:|---:|
@@ -52,10 +56,14 @@
 | RO · Romanian | 5% | 6 467 | 50 | 115 262 | 42 |
 | PH · Filipino | 3% | 4 112 | 50 | 117 617 | 19 |
 
+<!-- /table -->
+
 <details>
 <summary>Моды по языкам</summary>
 
 Доля строк мода с текстом на языке (автора или нашим), от строк с текстом автора на EN; EN* — от всех строк мода. «—» — текста нет.
+
+<!-- table:mods -->
 
 | Мод | EN\* | RU | PL | IT | JP | CN | FR | TR | PTBR | KO | ES | DE | UA | CH | TH | ID | PT | NL | DA | CA | HU | NO | FI | AR | CS | RO | PH |
 |---|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|---:|
@@ -601,6 +609,8 @@
 | [ZombieBuddy](https://steamcommunity.com/sharedfiles/filedetails/?id=3619862853) | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | [Zombies Have Cigarettes](https://steamcommunity.com/sharedfiles/filedetails/?id=3692043319) | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | — | — | — | — | — | — | — | — | — | — | — | — | — | — | — |
 | [Zomboid Storylines](https://steamcommunity.com/sharedfiles/filedetails/?id=3620552991) | 97% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | 100% | — | 38% | — | — | — | — | — | — | — | — | — | — | — | — | — |
+
+<!-- /table -->
 
 </details>
 
