@@ -33,6 +33,9 @@
   "Moodles_BladderNeed_L3_desc": "Estàs en un estat crític, no pots aguantar gaire més.",
   "Moodles_BladderNeed_L4": "A punt de rebentar",
   "Moodles_BladderNeed_L4_desc": "La natura truca... ARA.",
+  "Moodles_ClothingHole_Bad_lvl2": "Notes l'aire passant per la roba foradada",
+  "Moodles_ClothingHole_Custom": "Potser és hora d'ocupar-te dels teus %1 forats.",
+  "Moodles_ClothingHole_Good_lvl2": "Ja no tens cap forat a la roba que portes",
   "Moodles_Comfort_L1": "Còmode",
   "Moodles_Comfort_L1_desc": "Et sents tranquil i relaxat.",
   "Moodles_Comfort_L2": "Molt còmode",
@@ -150,5 +153,13 @@
   "Moodles_WasTaughtSkill_L1": "Bon consell",
   "Moodles_WasTaughtSkill_L1_desc": "Un mestre m'ha ensenyat unes lliçons molt útils. Hora de posar-les en pràctica!",
   "Moodles_Zen_L1": "Zen",
-  "Moodles_Zen_L1_desc": "Una ment clara i un chi centrat t'ajudaran a millorar el cos més de pressa. Namaste!"
+  "Moodles_Zen_L1_desc": "Una ment clara i un chi centrat t'ajudaran a millorar el cos més de pressa. Namaste!",
+  "Moodles_pk42_adrenalinefrenzy_lvl1": "Fúria d'adrenalina",
+  "Moodles_pk42_adrenalinefrenzy_lvl1_desc": "La set de sang s'ha despertat. Les morts alimenten el teu cos.",
+  "Moodles_pk42_adrenalinefrenzy_lvl2": "Fúria d'adrenalina",
+  "Moodles_pk42_adrenalinefrenzy_lvl2_desc": "Els teus cops són més ràpids i més forts. La ratxa alimenta la teva ira.",
+  "Moodles_pk42_adrenalinefrenzy_lvl3": "Fúria d'adrenalina",
+  "Moodles_pk42_adrenalinefrenzy_lvl3_desc": "Ets una força de la natura. Res no et pot aturar ara.",
+  "Moodles_pk42_adrenalinefrenzy_lvl4": "Fúria d'adrenalina",
+  "Moodles_pk42_adrenalinefrenzy_lvl4_desc": "FÚRIA PURA. Ets imparable."
 }
