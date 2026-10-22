@@ -1,4 +1,12 @@
 {
+  "Moodles_ClothingHole_Bad_lvl2": "Tunnet ilman virtaavan puhkeamiesi vaatteiden läpi",
+  "Moodles_ClothingHole_Custom": "Saattaa olla aika huolehtia %1 reiästäsi.",
+  "Moodles_ClothingHole_Good_lvl2": "Vaatteissasi ei ole enää reikiä",
+  "Moodles_PZTheMutants_Puked_Desc1": "Haju on vaimenemassa, mutta houkuttelet yhä lähellä olevia zombeja. Pese se pois.",
+  "Moodles_PZTheMutants_Puked_Desc2": "Haiset yhä niin, että houkuttelet zombeja. Pese se pois.",
+  "Moodles_PZTheMutants_Puked_Desc3": "Olet oksennuksen peitossa, ja haju houkuttelee zombeja. Pese se pois.",
+  "Moodles_PZTheMutants_Puked_Desc4": "Olet litimärkä oksennuksesta. Haju houkuttelee zombeja. Pese se pois.",
+  "Moodles_PZTheMutants_Puked_Title": "Oksennuksessa",
   "Moodles_pk42_adrenalinefrenzy_lvl1": "Adrenaliinihurmos",
   "Moodles_pk42_adrenalinefrenzy_lvl1_desc": "Verenhimo on herännyt. Tapot pitävät kehosi käynnissä.",
   "Moodles_pk42_adrenalinefrenzy_lvl2": "Adrenaliinihurmos",

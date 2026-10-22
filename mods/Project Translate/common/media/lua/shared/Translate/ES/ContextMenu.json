@@ -885,6 +885,8 @@
   "ContextMenu_Disco_Mode_shuffle": "Mezclar",
   "ContextMenu_Disco_Mode_spots": "Focos",
   "ContextMenu_Disco_Mode_valentine": "Romántico",
+  "ContextMenu_DismantleAllAtOnce": "Procesar en lote",
+  "ContextMenu_DismantleAllAtOnce_RequiresSurface": " (Requiere banco de trabajo)",
   "ContextMenu_DownHoodieOpen": "Capucha bajada y abierta",
   "ContextMenu_Drums": "Batería",
   "ContextMenu_Duet_Africa": "Africa",

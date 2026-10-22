@@ -1419,6 +1419,8 @@
   "ContextMenu_Disco_Mode_shuffle": "Mieszany",
   "ContextMenu_Disco_Mode_spots": "Plamy",
   "ContextMenu_Disco_Mode_valentine": "Romantyczny",
+  "ContextMenu_DismantleAllAtOnce": "Przetwórz zbiorczo",
+  "ContextMenu_DismantleAllAtOnce_RequiresSurface": " (Wymaga stołu warsztatowego)",
   "ContextMenu_DismantleGenerator": "Rozmontuj generator",
   "ContextMenu_DismantleTireTT": "Rozdziela oponę na dwie części, aby można było ją naprawić.",
   "ContextMenu_DismountTire": "Zdemontuj oponę",

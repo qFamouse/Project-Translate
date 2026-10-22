@@ -1,4 +1,12 @@
 {
+  "Moodles_ClothingHole_Bad_lvl2": "Érzed, ahogy a levegő átáramlik a kilyukadt ruháidon",
+  "Moodles_ClothingHole_Custom": "Talán ideje foglalkozni a(z) %1 lyukkal.",
+  "Moodles_ClothingHole_Good_lvl2": "Nincs több lyuk a viselt ruháidon",
+  "Moodles_PZTheMutants_Puked_Desc1": "A szag halványul, de még mindig magadhoz vonzod a közeli zombikat. Mosd le magad.",
+  "Moodles_PZTheMutants_Puked_Desc2": "Még mindig eléggé büdös vagy ahhoz, hogy zombikat vonzz. Mosd le magad.",
+  "Moodles_PZTheMutants_Puked_Desc3": "Hányadék borít, és a szag zombikat csalogat. Mosd le magad.",
+  "Moodles_PZTheMutants_Puked_Desc4": "Csuromvizes vagy a hányadéktól. A szag zombikat csalogat. Mosd le magad.",
+  "Moodles_PZTheMutants_Puked_Title": "Összehányt",
   "Moodles_pk42_adrenalinefrenzy_lvl1": "Adrenalinroham",
   "Moodles_pk42_adrenalinefrenzy_lvl1_desc": "A vérszomj felébredt. Az ölések éltetik a tested.",
   "Moodles_pk42_adrenalinefrenzy_lvl2": "Adrenalinroham",
