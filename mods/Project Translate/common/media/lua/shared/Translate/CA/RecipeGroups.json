@@ -1,4 +1,8 @@
 {
+  "RecipeGroup_CraftMechWindow": "Fabricar finestra de vehicle",
+  "RecipeGroup_CraftTireStack": "Fabricar pila de pneumàtics",
+  "RecipeGroup_CraftWheel": "Fabricar roda",
+  "RecipeGroup_CraftWindshield": "Fabricar parabrisa",
   "RecipeGroup_EXILIUM": "Botiga de vestits d'Exilium",
   "RecipeGroup_EXILIUMWeapon": "Botiga d'armes d'Exilium"
 }

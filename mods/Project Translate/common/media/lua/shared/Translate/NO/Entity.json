@@ -1,3 +1,5 @@
 {
-  "EC_Weight": "Vekt"
+  "EC_RadArcheryTarget": "Bueskytingsmål",
+  "EC_Weight": "Vekt",
+  "HEADER_Entity_EN_RadArchery": "RadArchery"
 }

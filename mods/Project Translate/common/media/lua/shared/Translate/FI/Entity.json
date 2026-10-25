@@ -1,3 +1,5 @@
 {
-  "EC_Weight": "Paino"
+  "EC_RadArcheryTarget": "Jousiammuntamaalitaulu",
+  "EC_Weight": "Paino",
+  "HEADER_Entity_EN_RadArchery": "RadArchery"
 }
