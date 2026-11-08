@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> A jelenlegi csatorna beszédtávolságának megjelenítése, amikor a csevegés fókuszban van <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> A jelenlegi csatorna beszédtávolságának folyamatos megjelenítése <BR><IMAGE:media/ui/tics/icons/mic-on.png> A környező rádiók hallótávolságának megjelenítése <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin vagy /a az adminisztrátori csatornán való beszédhez <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Érvénytelen méretű avatart találtunk. Az avatar méretének %1x%2-nek kell lennie.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> AVATAR FELTÖLTÉSE <BR><TEXT> <SIZE:small>Feltölthetsz egy egyéni avatarképet, amely beszéd közben a játékos buborékában jelenik meg a 3D portré helyett. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>A kép szélessége PONTOSAN 60, magassága pedig 80 képpont kell, hogy legyen. Az átlátszóság támogatott és ajánlott. <BR><IMAGE:media/ui/tics/icons/upload.png> Miután a képet a megfelelő könyvtárba helyezted, kattints a csevegőablak feltöltés ikonjára, hogy egy adminisztrátor jóváhagyhassa az avatarodat.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Szeretnél jóváhagyási kérelmet küldeni ehhez az avatarhoz?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b, ahol r,g,b egy 0 és 255 közötti szám, vagy /color #FFFFFF a játékos színének módosításához, illetve csak /color a jelenlegi szín megtekintéséhez <BR>",
+  "SurvivalGuide_TICS_Do": " /do a karakteredhez nem kapcsolódó esemény kifejezéséhez (használd megfontoltan) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction vagy /f a frakciócsatornán való beszédhez <BR>",
+  "SurvivalGuide_TICS_General": " /all vagy /g az általános csatornán való beszédhez <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en a nyelv váltásához, ahol az en egy általad megtanult nyelvkód <BR>",
+  "SurvivalGuide_TICS_Low": " /low vagy /l a halk beszédhez <BR>",
+  "SurvivalGuide_TICS_Markdown": " a * vagy ** között írt szöveg másképp lesz színezve (**szöveg**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me egy cselekvés kifejezéséhez <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc vagy /o a karakteren kívüli beszédhez <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch érték, ahol az érték 0,85 és 1,45 közötti, a játékos hangmagasságának módosításához, illetve csak /pitch a jelenlegi hangmagasság megtekintéséhez <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm felhasználónév vagy /p felhasználónév privát üzenet küldéséhez (/r a válaszoláshoz) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy, ahol x és y számok, x pedig 1 és 20 közötti, a kockadobáshoz <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse vagy /sh a menedékház-csatornán való beszédhez <BR>",
+  "SurvivalGuide_TICS_Say": " /say vagy /s a normál hangerejű beszédhez <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper vagy /w a suttogáshoz <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell vagy /y a kiabáláshoz <BR>"
+}

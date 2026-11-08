@@ -1,3 +1,20 @@
 {
-  "EC_Weight": "น้ำหนัก"
+  "EC_Artel_BarExtruder": "เครื่องอัดรีดแท่งอุตสาหกรรม",
+  "EC_Artel_Bioreactor": "เครื่องปฏิกรณ์ชีวภาพ",
+  "EC_Artel_Cellar": "ห้องใต้ดินเก็บอาหาร",
+  "EC_Artel_CharcoalRetort": "เตาหลอมถ่าน",
+  "EC_Artel_ChemTable": "โต๊ะเคมี",
+  "EC_Artel_DryingRack": "ราวตากแห้ง",
+  "EC_Artel_ElectricDryer": "เครื่องอบแห้งไฟฟ้า",
+  "EC_Artel_FactorySealer": "เครื่องผนึกกระป๋องอุตสาหกรรม",
+  "EC_Artel_QuantumBase": "ที่เก็บของควอนตัม",
+  "EC_Artel_SteamFrame": "โครงเครื่องกำเนิดไอน้ำ",
+  "EC_Artel_Sublimator": "เครื่องทำแห้งแบบเยือกแข็ง",
+  "EC_Artel_TradePost": "จุดแลกเปลี่ยนสินค้าทางวิทยุ",
+  "EC_Artel_WellHand": "ปั๊มน้ำมือโยก",
+  "EC_Artel_WellMotor": "ปั๊มน้ำมอเตอร์",
+  "EC_Artel_WellPipe": "ท่อกรุบ่อน้ำ",
+  "EC_RadArcheryTarget": "เป้าฝึกยิงธนู",
+  "EC_Weight": "น้ำหนัก",
+  "HEADER_Entity_EN_RadArchery": "RadArchery"
 }

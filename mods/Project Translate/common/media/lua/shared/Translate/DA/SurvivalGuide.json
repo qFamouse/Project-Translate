@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Vis talerækkevidden for den aktuelle kanal, når chatten er i fokus <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Vis altid talerækkevidden for den aktuelle kanal <BR><IMAGE:media/ui/tics/icons/mic-on.png> Vis lytterækkevidden for radioer i nærheden <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin eller /a for at tale i administratorkanalen <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Avatar med ugyldig størrelse fundet. Din avatar skal have størrelsen %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> SÅDAN UPLOADER DU DIN AVATAR <BR><TEXT> <SIZE:small>Det er muligt at uploade et brugerdefineret avatarbillede, som vises i spillerboblen, når du taler, i stedet for et 3D-portræt. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Billedet SKAL være præcis 60 i bredden og 80 i højden. Gennemsigtighed understøttes og anbefales. <BR><IMAGE:media/ui/tics/icons/upload.png> Når billedet er flyttet til den rigtige mappe, skal du klikke på upload-ikonet i chatvinduet for at uploade det, så en administrator kan godkende din avatar.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Vil du sende en godkendelsesanmodning for denne avatar?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b, hvor r,g,b er et tal fra 0 til 255, eller /color #FFFFFF for at ændre spillerfarven, eller bare /color for at se den aktuelle farve <BR>",
+  "SurvivalGuide_TICS_Do": " /do for at udtrykke en begivenhed, der ikke er knyttet til din karakter (brug det med omtanke) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction eller /f for at tale i fraktionskanalen <BR>",
+  "SurvivalGuide_TICS_General": " /all eller /g for at tale i den generelle kanal <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en for at skifte sprog, hvor en er en sprogkode, du har lært <BR>",
+  "SurvivalGuide_TICS_Low": " /low eller /l for at tale dæmpet <BR>",
+  "SurvivalGuide_TICS_Markdown": " tekst skrevet mellem * eller ** får en anden farve (**tekst**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me for at udtrykke en handling <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc eller /o for at tale uden for rollen <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch værdi, hvor værdi er fra 0.85 til 1.45, for at ændre spillerens stemmeleje, eller bare /pitch for at se det aktuelle stemmeleje <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm brugernavn eller /p brugernavn for at sende en privat besked (/r for at svare) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy, hvor x og y er tal og x er fra 1 til 20, for at kaste terninger <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse eller /sh for at tale i safehouse-kanalen <BR>",
+  "SurvivalGuide_TICS_Say": " /say eller /s for at tale med normal styrke <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper eller /w for at hviske <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell eller /y for at skrige <BR>"
+}

@@ -2,5 +2,7 @@
   "RecipeGroup_CraftMechWindow": "ประดิษฐ์กระจกหน้าต่างรถ",
   "RecipeGroup_CraftTireStack": "ประดิษฐ์กองยางรถ",
   "RecipeGroup_CraftWheel": "ประดิษฐ์ล้อ",
-  "RecipeGroup_CraftWindshield": "ประดิษฐ์กระจกหน้ารถ"
+  "RecipeGroup_CraftWindshield": "ประดิษฐ์กระจกหน้ารถ",
+  "RecipeGroup_EXILIUM": "ร้านชุด Exilium",
+  "RecipeGroup_EXILIUMWeapon": "ร้านอาวุธ Exilium"
 }

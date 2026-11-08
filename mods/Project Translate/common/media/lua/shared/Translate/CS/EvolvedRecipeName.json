@@ -1,4 +1,7 @@
 {
+  "Artel.Curd": "Tvaroh",
+  "Artel.HomemadeCheese": "Domácí sýr",
+  "Artel.HomemadeYogurt": "Domácí jogurt",
   "Base.VFXArborioRicePotEvolved": "Rýže arborio",
   "Base.VFXArborioRicePotForgedEvolved": "Rýže arborio",
   "Base.VFXArborioRiceSaucepanCopperEvolved": "Rýže arborio",
@@ -78,6 +81,7 @@
   "EvolvedRecipeName_SapphCooking.TequilaFull": "Tequila",
   "EvolvedRecipeName_SapphCooking.VodkaFull": "Vodka",
   "EvolvedRecipeName_SapphCooking.Watermelon": "Meloun",
+  "LGUFood.OnionBits": "Nakrájená cibule",
   "VFX.ArborioRiceBowl": "Rýže arborio",
   "VFX.BagGreenBeans": "Zelené fazolky",
   "VFX.BasmatiRiceBowl": "Rýže basmati",

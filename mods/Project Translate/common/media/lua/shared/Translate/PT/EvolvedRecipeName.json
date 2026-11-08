@@ -1,4 +1,7 @@
 {
+  "Artel.Curd": "Requeijão",
+  "Artel.HomemadeCheese": "Queijo caseiro",
+  "Artel.HomemadeYogurt": "Iogurte caseiro",
   "Base.VFXArborioRicePotEvolved": "Arroz arbóreo",
   "Base.VFXArborioRicePotForgedEvolved": "Arroz arbóreo",
   "Base.VFXArborioRiceSaucepanCopperEvolved": "Arroz arbóreo",
@@ -78,6 +81,7 @@
   "EvolvedRecipeName_SapphCooking.TequilaFull": "Tequila",
   "EvolvedRecipeName_SapphCooking.VodkaFull": "Vodca",
   "EvolvedRecipeName_SapphCooking.Watermelon": "Melancia",
+  "LGUFood.OnionBits": "Cebola picada",
   "VFX.ArborioRiceBowl": "Arroz arbóreo",
   "VFX.BagGreenBeans": "Vagem",
   "VFX.BasmatiRiceBowl": "Arroz basmati",

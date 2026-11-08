@@ -1,4 +1,19 @@
 {
+  "EC_Artel_BarExtruder": "工业能量棒挤出机",
+  "EC_Artel_Bioreactor": "生物反应器",
+  "EC_Artel_Cellar": "地窖",
+  "EC_Artel_CharcoalRetort": "木炭干馏炉",
+  "EC_Artel_ChemTable": "化学工作台",
+  "EC_Artel_DryingRack": "晾晒架",
+  "EC_Artel_ElectricDryer": "电动烘干机",
+  "EC_Artel_FactorySealer": "工业封罐机",
+  "EC_Artel_QuantumBase": "量子仓库",
+  "EC_Artel_SteamFrame": "蒸汽发电机框架",
+  "EC_Artel_Sublimator": "冻干机",
+  "EC_Artel_TradePost": "电台贸易站",
+  "EC_Artel_WellHand": "手动水泵",
+  "EC_Artel_WellMotor": "电动水泵",
+  "EC_Artel_WellPipe": "井管",
   "EC_Weight": "重量",
   "HEADER_Entity_EN_RadArchery": "RadArchery"
 }

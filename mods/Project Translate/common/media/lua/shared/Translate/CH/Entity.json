@@ -1,4 +1,19 @@
 {
+  "EC_Artel_BarExtruder": "工廠營養棒擠壓機",
+  "EC_Artel_Bioreactor": "生物反應器",
+  "EC_Artel_Cellar": "地窖",
+  "EC_Artel_CharcoalRetort": "木炭乾餾爐",
+  "EC_Artel_ChemTable": "化學工作台",
+  "EC_Artel_DryingRack": "曬乾架",
+  "EC_Artel_ElectricDryer": "電動烘乾機",
+  "EC_Artel_FactorySealer": "工廠罐頭封罐機",
+  "EC_Artel_QuantumBase": "量子儲存",
+  "EC_Artel_SteamFrame": "蒸汽發電機框架",
+  "EC_Artel_Sublimator": "冷凍乾燥機",
+  "EC_Artel_TradePost": "貿易電台站",
+  "EC_Artel_WellHand": "手動抽水泵",
+  "EC_Artel_WellMotor": "電動抽水泵",
+  "EC_Artel_WellPipe": "井壁套管",
   "EC_RadArcheryTarget": "箭靶",
   "HEADER_Entity_EN_RadArchery": "RadArchery"
 }

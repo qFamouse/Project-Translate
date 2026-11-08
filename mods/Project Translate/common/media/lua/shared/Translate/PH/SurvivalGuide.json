@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Ipakita ang saklaw ng pagsasalita ng kasalukuyang channel kapag naka-focus ang chat <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Laging ipakita ang saklaw ng pagsasalita ng kasalukuyang channel <BR><IMAGE:media/ui/tics/icons/mic-on.png> Ipakita ang saklaw ng pakikinig ng mga kalapit na radyo <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin o /a para makipag-usap sa channel ng admin <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>May nakitang avatar na di-wasto ang laki. Ang laki ng iyong avatar ay dapat %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> PAANO MAG-UPLOAD NG IYONG AVATAR <BR><TEXT> <SIZE:small>Maaaring mag-upload ng custom na larawan ng avatar na ipapakita sa bubble ng manlalaro kapag nagsasalita, sa halip na 3D portrait. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Ang larawan ay DAPAT eksaktong 60 ang lapad at 80 ang taas. Sinusuportahan at hinihikayat ang transparency. <BR><IMAGE:media/ui/tics/icons/upload.png> Kapag nailipat na ang larawan sa tamang direktoryo, i-click ang upload icon sa chat window para i-upload ito upang maaprubahan ng admin ang iyong avatar.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Gusto mo bang magpadala ng kahilingan ng pag-apruba para sa avatar na ito?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b kung saan ang r,g,b ay numero mula 0 hanggang 255 o /color #FFFFFF para baguhin ang kulay ng manlalaro o /color lang para makita ang kasalukuyang kulay <BR>",
+  "SurvivalGuide_TICS_Do": " /do para ipahayag ang isang pangyayaring walang kaugnayan sa iyong karakter (gamitin ito nang maingat) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction o /f para makipag-usap sa channel ng faction <BR>",
+  "SurvivalGuide_TICS_General": " /all o /g para makipag-usap sa pangkalahatang channel <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en para magpalit ng wika kung saan ang en ay code ng wikang natutunan mo na <BR>",
+  "SurvivalGuide_TICS_Low": " /low o /l para magsalita nang mahina <BR>",
+  "SurvivalGuide_TICS_Markdown": " ang tekstong isinulat sa pagitan ng * o ** ay magkakaroon ng ibang kulay (**text**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me para ipahayag ang isang kilos <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc o /o para magsalita nang labas sa karakter <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch value kung saan ang value ay mula 0.85 hanggang 1.45 para baguhin ang pitch ng boses ng manlalaro o /pitch lang para makita ang kasalukuyang pitch <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm username o /p username para magpadala ng pribadong mensahe (/r para sumagot) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy kung saan ang x at y ay mga numero at ang x ay mula 1 hanggang 20 para magpagulong ng dice <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse o /sh para makipag-usap sa channel ng safehouse <BR>",
+  "SurvivalGuide_TICS_Say": " /say o /s para magsalita sa normal na lakas ng boses <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper o /w para bumulong <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell o /y para sumigaw <BR>"
+}

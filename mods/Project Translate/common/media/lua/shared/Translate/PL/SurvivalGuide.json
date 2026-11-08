@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Pokazuj zasięg mówienia bieżącego kanału, gdy czat jest aktywny <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Zawsze pokazuj zasięg mówienia bieżącego kanału <BR><IMAGE:media/ui/tics/icons/mic-on.png> Pokazuj zasięg słyszenia pobliskich radiostacji <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin lub /a, aby mówić na kanale administratorów <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Znaleziono awatar o nieprawidłowym rozmiarze. Rozmiar twojego awatara musi wynosić %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> JAK PRZESŁAĆ SWÓJ AWATAR <BR><TEXT> <SIZE:small>Można przesłać własny awatar, który będzie wyświetlany w dymku gracza podczas mówienia zamiast portretu 3D. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Obraz MUSI mieć dokładnie 60 pikseli szerokości i 80 pikseli wysokości. Przezroczystość jest obsługiwana i zalecana. <BR><IMAGE:media/ui/tics/icons/upload.png> Gdy obraz znajdzie się we właściwym folderze, kliknij ikonę przesyłania w oknie czatu, aby go wysłać, by administrator mógł zatwierdzić twój awatar.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Czy chcesz wysłać prośbę o zatwierdzenie tego awatara?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b, gdzie r,g,b to liczby od 0 do 255, lub /color #FFFFFF, aby zmienić kolor gracza, albo samo /color, aby zobaczyć bieżący kolor <BR>",
+  "SurvivalGuide_TICS_Do": " /do, aby opisać zdarzenie niezwiązane z twoją postacią (używaj rozsądnie) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction lub /f, aby mówić na kanale frakcji <BR>",
+  "SurvivalGuide_TICS_General": " /all lub /g, aby mówić na kanale ogólnym <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en, aby zmienić język, gdzie en to kod poznanego przez ciebie języka <BR>",
+  "SurvivalGuide_TICS_Low": " /low lub /l, aby mówić cicho <BR>",
+  "SurvivalGuide_TICS_Markdown": " tekst napisany między * lub ** będzie wyróżniony kolorem (**tekst**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me, aby opisać czynność <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc lub /o, aby mówić poza postacią <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch wartość, gdzie wartość to liczba od 0.85 do 1.45, aby zmienić wysokość głosu gracza, albo samo /pitch, aby zobaczyć bieżącą wysokość <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm nazwa_gracza lub /p nazwa_gracza, aby wysłać wiadomość prywatną (/r, aby odpowiedzieć) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy, gdzie x i y to liczby, a x mieści się w zakresie od 1 do 20, aby rzucić kośćmi <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse lub /sh, aby mówić na kanale kryjówki <BR>",
+  "SurvivalGuide_TICS_Say": " /say lub /s, aby mówić normalnym głosem <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper lub /w, aby szeptać <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell lub /y, aby krzyczeć <BR>"
+}

@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> 聊天視窗取得焦點時,顯示目前頻道的說話範圍 <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> 始終顯示目前頻道的說話範圍 <BR><IMAGE:media/ui/tics/icons/mic-on.png> 顯示周圍無線電的收聽範圍 <BR>",
+  "SurvivalGuide_TICS_Admin": " 使用 /admin 或 /a 在管理員頻道說話 <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>發現尺寸無效的頭像。你的頭像尺寸必須為 %1x%2。",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> HOW TO UPLOAD YOUR AVATAR <BR><TEXT> <SIZE:small>你可以上傳自訂頭像圖片,說話時將顯示於玩家氣泡中,以取代 3D 肖像。 <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>圖片寬度必須剛好為 60、高度剛好為 80。支援並建議使用透明背景。 <BR><IMAGE:media/ui/tics/icons/upload.png> 將圖片移至正確的目錄後,點擊聊天視窗上的上傳圖示進行上傳,以便管理員核准你的頭像。",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>你要為此頭像傳送核准申請嗎?",
+  "SurvivalGuide_TICS_Color": "使用 /color r,g,b(r、g、b 為 0 到 255 的數字)或 /color #FFFFFF 來更新玩家顏色,或僅輸入 /color 查看目前顏色 <BR>",
+  "SurvivalGuide_TICS_Do": " 使用 /do 來表達與你的角色無關的事件(請謹慎使用) <BR>",
+  "SurvivalGuide_TICS_Faction": " 使用 /faction 或 /f 在派系頻道說話 <BR>",
+  "SurvivalGuide_TICS_General": " 使用 /all 或 /g 在綜合頻道說話 <BR>",
+  "SurvivalGuide_TICS_Languages": "使用 /language en 來切換語言,其中 en 為你已學會的語言代碼 <BR>",
+  "SurvivalGuide_TICS_Low": " 使用 /low 或 /l 來小聲說話 <BR>",
+  "SurvivalGuide_TICS_Markdown": " 寫在 * 或 ** 之間的文字會以不同顏色顯示(**文字**) <BR>",
+  "SurvivalGuide_TICS_Me": " 使用 /me 來表達動作 <BR>",
+  "SurvivalGuide_TICS_Ooc": " 使用 /ooc 或 /o 以角色外身分說話 <BR>",
+  "SurvivalGuide_TICS_Pitch": "使用 /pitch 數值(數值為 0.85 到 1.45)來更新玩家聲音音調,或僅輸入 /pitch 查看目前音調 <BR>",
+  "SurvivalGuide_TICS_Pm": " 使用 /pm 使用者名稱 或 /p 使用者名稱 來傳送私人訊息(/r 回覆) <BR>",
+  "SurvivalGuide_TICS_Roll": "使用 /roll xdy(x 和 y 為數字,x 為 1 到 20)來擲骰子 <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " 使用 /safehouse 或 /sh 在安全屋頻道說話 <BR>",
+  "SurvivalGuide_TICS_Say": " 使用 /say 或 /s 以正常音量說話 <BR>",
+  "SurvivalGuide_TICS_Whisper": " 使用 /whisper 或 /w 來低語 <BR>",
+  "SurvivalGuide_TICS_Yell": " 使用 /yell 或 /y 來大喊 <BR>"
+}

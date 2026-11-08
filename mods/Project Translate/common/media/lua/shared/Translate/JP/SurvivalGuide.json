@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> チャットにフォーカスしている間、現在のチャンネルの発言範囲を表示する <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> 現在のチャンネルの発言範囲を常に表示する <BR><IMAGE:media/ui/tics/icons/mic-on.png>周囲のラジオの受信範囲を表示する <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin または /a で管理者チャンネルに発言 <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>無効なサイズのアバターが見つかりました。アバターのサイズは %1x%2 でなければなりません。",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> アバターのアップロード方法 <BR><TEXT> <SIZE:small>3Dポートレートの代わりに、発言時にプレイヤーの吹き出しに表示されるカスタムアバター画像をアップロードできます。 <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>画像は幅60、高さ80ちょうどでなければなりません。透過にも対応しており、おすすめです。 <BR><IMAGE:media/ui/tics/icons/upload.png> 画像を正しいディレクトリに移動したら、チャットウィンドウのアップロードアイコンをクリックしてアップロードすると、管理者があなたのアバターを承認できます。",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>このアバターの承認リクエストを送信しますか？",
+  "SurvivalGuide_TICS_Color": "/color r,g,b (r,g,b は 0～255 の数値) または /color #FFFFFF でプレイヤーの色を変更、/color のみで現在の色を表示 <BR>",
+  "SurvivalGuide_TICS_Do": " /do でキャラクターとは無関係な出来事を表現する(慎重に使用してください) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction または /f でファクションチャンネルに話しかける <BR>",
+  "SurvivalGuide_TICS_General": " /all または /g で全体チャンネルに発言 <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en で言語を切り替え (en は習得済みの言語コード) <BR>",
+  "SurvivalGuide_TICS_Low": " /low または /l で小声で話す <BR>",
+  "SurvivalGuide_TICS_Markdown": " * または ** で囲まれたテキストは色が変わります (**テキスト**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me で行動を表現する <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc または /o でキャラクター外の発言 <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch 値 (値は 0.85～1.45) でプレイヤーの声のピッチを変更、/pitch のみで現在のピッチを表示 <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm ユーザー名 または /p ユーザー名 でプライベートメッセージを送信 (/r で返信) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy (x と y は数値、x は 1～20) でダイスを振る <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse または /sh でセーフハウスチャンネルに発言 <BR>",
+  "SurvivalGuide_TICS_Say": " /say または /s で通常の声量で話す <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper または /w でささやく <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell または /y で叫ぶ <BR>"
+}

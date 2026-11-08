@@ -1,4 +1,7 @@
 {
+  "Artel.Curd": "Brânză de vaci",
+  "Artel.HomemadeCheese": "Brânză de casă",
+  "Artel.HomemadeYogurt": "Iaurt de casă",
   "Base.VFXArborioRicePotEvolved": "Orez arborio",
   "Base.VFXArborioRicePotForgedEvolved": "Orez arborio",
   "Base.VFXArborioRiceSaucepanCopperEvolved": "Orez arborio",
@@ -78,6 +81,7 @@
   "EvolvedRecipeName_SapphCooking.TequilaFull": "Tequila",
   "EvolvedRecipeName_SapphCooking.VodkaFull": "Vodcă",
   "EvolvedRecipeName_SapphCooking.Watermelon": "Pepene verde",
+  "LGUFood.OnionBits": "Ceapă tocată",
   "VFX.ArborioRiceBowl": "Orez arborio",
   "VFX.BagGreenBeans": "Fasole verde",
   "VFX.BasmatiRiceBowl": "Orez basmati",

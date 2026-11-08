@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Tampilkan jangkauan bicara saluran saat ini ketika obrolan difokuskan <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Selalu tampilkan jangkauan bicara saluran saat ini <BR><IMAGE:media/ui/tics/icons/mic-on.png> Tampilkan jangkauan dengar radio di sekitar <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin atau /a untuk berbicara di kanal admin <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Avatar dengan ukuran tidak valid ditemukan. Ukuran avatarmu harus %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> CARA MENGUNGGAH AVATARMU <BR><TEXT> <SIZE:small>Kamu dapat mengunggah gambar avatar kustom yang akan ditampilkan di gelembung pemain saat berbicara, menggantikan potret 3D. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Gambar HARUS berukuran tepat lebar 60 dan tinggi 80. Transparansi didukung dan dianjurkan. <BR><IMAGE:media/ui/tics/icons/upload.png> Setelah gambar dipindahkan ke direktori yang benar, klik ikon unggah di jendela obrolan agar admin dapat menyetujui avatarmu.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Apakah kamu ingin mengirim permintaan persetujuan untuk avatar ini?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b dengan r,g,b berupa angka dari 0 sampai 255 atau /color #FFFFFF untuk mengubah warna pemain, atau cukup /color untuk melihat warna saat ini <BR>",
+  "SurvivalGuide_TICS_Do": " /do untuk menyatakan kejadian yang tidak berkaitan dengan karaktermu (gunakan dengan bijak) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction atau /f untuk berbicara di kanal faksi <BR>",
+  "SurvivalGuide_TICS_General": " /all atau /g untuk berbicara di kanal umum <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en untuk mengganti bahasa dengan en sebagai kode bahasa yang telah kamu pelajari <BR>",
+  "SurvivalGuide_TICS_Low": " /low atau /l untuk berbicara pelan <BR>",
+  "SurvivalGuide_TICS_Markdown": " teks yang ditulis di antara * atau ** akan diberi warna berbeda (**teks**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me untuk menyatakan sebuah tindakan <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc atau /o untuk berbicara di luar karakter <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch nilai dengan nilai dari 0.85 sampai 1.45 untuk mengubah nada suara pemain, atau cukup /pitch untuk melihat nada saat ini <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm namapengguna atau /p namapengguna untuk mengirim pesan pribadi (/r untuk membalas) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy dengan x dan y berupa angka dan x dari 1 sampai 20 untuk melempar dadu <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse atau /sh untuk berbicara di kanal rumah aman <BR>",
+  "SurvivalGuide_TICS_Say": " /say atau /s untuk berbicara dengan volume normal <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper atau /w untuk berbisik <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell atau /y untuk berteriak <BR>"
+}

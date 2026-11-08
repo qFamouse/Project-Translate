@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Zeigt die Sprechreichweite des aktuellen Kanals an, wenn der Chat fokussiert ist <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Zeigt immer die Sprechreichweite des aktuellen Kanals an <BR><IMAGE:media/ui/tics/icons/mic-on.png> Zeigt die Hörreichweite der Funkgeräte in der Umgebung an <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin oder /a zum Sprechen im Admin-Kanal <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Avatar mit ungültiger Größe gefunden. Die Größe deines Avatars muss %1x%2 betragen.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> SO LÄDST DU DEINEN AVATAR HOCH <BR><TEXT> <SIZE:small>Du kannst ein eigenes Avatarbild hochladen, das beim Sprechen anstelle eines 3D-Porträts in der Spielerblase angezeigt wird. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Das Bild MUSS genau 60 Pixel breit und 80 Pixel hoch sein. Transparenz wird unterstützt und ist erwünscht. <BR><IMAGE:media/ui/tics/icons/upload.png> Sobald das Bild im richtigen Verzeichnis liegt, klicke im Chatfenster auf das Upload-Symbol, um es hochzuladen, damit ein Admin deinen Avatar genehmigen kann.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Möchtest du eine Genehmigungsanfrage für diesen Avatar senden?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b (r, g, b jeweils eine Zahl von 0 bis 255) oder /color #FFFFFF, um die Spielerfarbe zu ändern, oder nur /color, um die aktuelle Farbe anzuzeigen <BR>",
+  "SurvivalGuide_TICS_Do": " /do, um ein Ereignis auszudrücken, das nichts mit deinem Charakter zu tun hat (mit Bedacht verwenden) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction oder /f zum Sprechen im Fraktionskanal <BR>",
+  "SurvivalGuide_TICS_General": " /all oder /g zum Sprechen im allgemeinen Kanal <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en, um die Sprache zu wechseln, wobei en ein Sprachcode einer Sprache ist, die du gelernt hast <BR>",
+  "SurvivalGuide_TICS_Low": " /low oder /l zum leisen Sprechen <BR>",
+  "SurvivalGuide_TICS_Markdown": " Text, der zwischen * oder ** steht, wird andersfarbig dargestellt (**Text**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me, um eine Handlung auszudrücken <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc oder /o zum Sprechen außerhalb der Rolle <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch Wert (Wert von 0.85 bis 1.45), um die Stimmlage des Spielers zu ändern, oder nur /pitch, um die aktuelle Stimmlage anzuzeigen <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm Benutzername oder /p Benutzername, um eine Privatnachricht zu senden (/r zum Antworten) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy (x und y sind Zahlen, x von 1 bis 20), um zu würfeln <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse oder /sh zum Sprechen im Unterschlupfkanal <BR>",
+  "SurvivalGuide_TICS_Say": " /say oder /s zum Sprechen in normaler Lautstärke <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper oder /w zum Flüstern <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell oder /y zum Schreien <BR>"
+}

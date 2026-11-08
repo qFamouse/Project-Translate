@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Toon het spreekbereik van het huidige kanaal wanneer de chat is geselecteerd <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Toon altijd het spreekbereik van het huidige kanaal <BR><IMAGE:media/ui/tics/icons/mic-on.png> Toon het luisterbereik van de radio's in de buurt <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin of /a om in het beheerderskanaal te praten <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Avatar met ongeldige afmetingen gevonden. Je avatar moet %1x%2 zijn.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> HOE UPLOAD JE JE AVATAR <BR><TEXT> <SIZE:small>Je kunt een eigen avatarafbeelding uploaden die in de tekstballon van de speler wordt getoond tijdens het praten, in plaats van een 3D-portret. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>De afbeelding MOET precies 60 breed en 80 hoog zijn. Transparantie wordt ondersteund en aangemoedigd. <BR><IMAGE:media/ui/tics/icons/upload.png> Zodra de afbeelding in de juiste map staat, klik je op het uploadpictogram in het chatvenster om hem te uploaden, zodat een beheerder je avatar kan goedkeuren.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Wil je een goedkeuringsverzoek voor deze avatar versturen?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b met r,g,b een getal van 0 tot 255, of /color #FFFFFF om de spelerkleur te wijzigen, of alleen /color om de huidige kleur te zien <BR>",
+  "SurvivalGuide_TICS_Do": " /do om een gebeurtenis uit te drukken die los staat van je personage (gebruik dit verstandig) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction of /f om in het factionkanaal te praten <BR>",
+  "SurvivalGuide_TICS_General": " /all of /g om in het algemene kanaal te praten <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en om van taal te wisselen, waarbij en een taalcode is die je hebt geleerd <BR>",
+  "SurvivalGuide_TICS_Low": " /low of /l om zachtjes te praten <BR>",
+  "SurvivalGuide_TICS_Markdown": " tekst die tussen * of ** staat, krijgt een andere kleur (**tekst**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me om een handeling uit te drukken <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc of /o om buiten je personage om te praten <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch waarde met waarde van 0.85 tot 1.45 om de toonhoogte van de spelersstem te wijzigen, of alleen /pitch om de huidige toonhoogte te zien <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm gebruikersnaam of /p gebruikersnaam om een privébericht te sturen (/r om te antwoorden) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy met x en y getallen en x van 1 tot 20 om te dobbelen <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse of /sh om in het safehousekanaal te praten <BR>",
+  "SurvivalGuide_TICS_Say": " /say of /s om op normaal volume te praten <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper of /w om te fluisteren <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell of /y om te schreeuwen <BR>"
+}

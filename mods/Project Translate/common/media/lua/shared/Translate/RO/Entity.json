@@ -1,3 +1,20 @@
 {
-  "EC_Weight": "Greutate"
+  "EC_Artel_BarExtruder": "Extruder industrial de batoane",
+  "EC_Artel_Bioreactor": "Bioreactor",
+  "EC_Artel_Cellar": "Pivniță",
+  "EC_Artel_CharcoalRetort": "Retortă cu cărbune",
+  "EC_Artel_ChemTable": "Banc de chimie",
+  "EC_Artel_DryingRack": "Uscător",
+  "EC_Artel_ElectricDryer": "Uscător electric",
+  "EC_Artel_FactorySealer": "Mașină industrială de închis conserve",
+  "EC_Artel_QuantumBase": "Depozit cuantic",
+  "EC_Artel_SteamFrame": "Cadru de generator de abur",
+  "EC_Artel_Sublimator": "Liofilizator",
+  "EC_Artel_TradePost": "Post radio de comerț",
+  "EC_Artel_WellHand": "Pompă de apă manuală",
+  "EC_Artel_WellMotor": "Pompă de apă cu motor",
+  "EC_Artel_WellPipe": "Țeavă de tubare a fântânii",
+  "EC_RadArcheryTarget": "Țintă de tir cu arcul",
+  "EC_Weight": "Greutate",
+  "HEADER_Entity_EN_RadArchery": "RadArchery"
 }

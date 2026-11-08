@@ -1,4 +1,7 @@
 {
+  "Artel.Curd": "ชีสเคิร์ด",
+  "Artel.HomemadeCheese": "ชีสทำเอง",
+  "Artel.HomemadeYogurt": "โยเกิร์ตทำเอง",
   "Base.VFXArborioRicePotEvolved": "ข้าวอาร์บอริโอ",
   "Base.VFXArborioRicePotForgedEvolved": "ข้าวอาร์บอริโอ",
   "Base.VFXArborioRiceSaucepanCopperEvolved": "ข้าวอาร์บอริโอ",
@@ -31,6 +34,7 @@
   "Base.VFXPennePotForgedEvolved": "เพนเน่",
   "Base.VFXPenneSaucepanCopperEvolved": "เพนเน่",
   "Base.VFXPenneSaucepanEvolved": "เพนเน่",
+  "LGUFood.OnionBits": "หัวหอมสับ",
   "VFX.ArborioRiceBowl": "ข้าวอาร์บอริโอ",
   "VFX.BagGreenBeans": "ถั่วเขียว",
   "VFX.BasmatiRiceBowl": "ข้าวบัสมาติ",

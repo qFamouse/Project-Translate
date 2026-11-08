@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Mostra l'abast de parla del canal actual quan el xat té el focus <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Mostra sempre l'abast de parla del canal actual <BR><IMAGE:media/ui/tics/icons/mic-on.png> Mostra l'abast d'escolta de les ràdios properes <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin o /a per parlar al canal d'administració <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>S'ha trobat un avatar de mida no vàlida. La mida del teu avatar ha de ser de %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> COM PUJAR EL TEU AVATAR <BR><TEXT> <SIZE:small>Es pot pujar una imatge d'avatar personalitzada que es mostrarà a la bafarada del jugador quan parli, en lloc d'un retrat en 3D. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>La imatge HA DE fer exactament 60 d'amplada i 80 d'alçada. Es admet la transparència i es recomana. <BR><IMAGE:media/ui/tics/icons/upload.png> Un cop la imatge s'hagi mogut al directori correcte, fes clic a la icona de pujada de la finestra de xat per pujar-la i que un administrador pugui aprovar el teu avatar.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Vols enviar una sol·licitud d'aprovació per a aquest avatar?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b amb r,g,b un número de 0 a 255 o /color #FFFFFF per actualitzar el color del jugador, o només /color per veure el color actual <BR>",
+  "SurvivalGuide_TICS_Do": " /do per expressar un esdeveniment aliè al teu personatge (fes-ho servir amb seny) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction o /f per parlar al canal de la facció <BR>",
+  "SurvivalGuide_TICS_General": " /all o /g per parlar al canal general <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en per canviar d'idioma, on en és un codi d'idioma que hagis après <BR>",
+  "SurvivalGuide_TICS_Low": " /low o /l per parlar baixet <BR>",
+  "SurvivalGuide_TICS_Markdown": " el text escrit entre * o ** es mostrarà amb un color diferent (**text**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me per expressar una acció <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc o /o per parlar fora del personatge <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch valor amb valor de 0.85 a 1.45 per actualitzar el to de veu del jugador, o només /pitch per veure el to actual <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm nomdusuari o /p nomdusuari per enviar un missatge privat (/r per respondre) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy amb x i y números i x d'1 a 20 per llançar daus <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse o /sh per parlar al canal del refugi <BR>",
+  "SurvivalGuide_TICS_Say": " /say o /s per parlar a volum normal <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper o /w per xiuxiuejar <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell o /y per cridar <BR>"
+}

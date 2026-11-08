@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Zobrazit dosah mluvení aktuálního kanálu, když je chat aktivní <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Vždy zobrazit dosah mluvení aktuálního kanálu <BR><IMAGE:media/ui/tics/icons/mic-on.png> Zobrazit dosah poslechu okolních vysílaček <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin nebo /a pro mluvení v kanálu administrátorů <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Byl nalezen avatar s neplatnou velikostí. Velikost tvého avataru musí být %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> JAK NAHRÁT SVŮJ AVATAR <BR><TEXT> <SIZE:small>Je možné nahrát vlastní obrázek avataru, který se při mluvení zobrazí v bublině hráče místo 3D portrétu. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Obrázek MUSÍ mít přesně 60 pixelů na šířku a 80 pixelů na výšku. Průhlednost je podporována a doporučována. <BR><IMAGE:media/ui/tics/icons/upload.png> Jakmile bude obrázek přesunut do správné složky, klikni na ikonu nahrávání v okně chatu, aby ho administrátor mohl schválit jako tvůj avatar.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Chceš odeslat žádost o schválení tohoto avataru?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b, kde r,g,b je číslo od 0 do 255, nebo /color #FFFFFF pro změnu barvy hráče, nebo jen /color pro zobrazení aktuální barvy <BR>",
+  "SurvivalGuide_TICS_Do": " /do pro vyjádření události nesouvisející s tvou postavou (používej s rozmyslem) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction nebo /f pro mluvení v kanálu frakce <BR>",
+  "SurvivalGuide_TICS_General": " /all nebo /g pro mluvení v obecném kanálu <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en pro přepnutí jazyka, kde en je kód jazyka, který ses naučil <BR>",
+  "SurvivalGuide_TICS_Low": " /low nebo /l pro tiché mluvení <BR>",
+  "SurvivalGuide_TICS_Markdown": " text napsaný mezi * nebo ** bude mít jinou barvu (**text**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me pro vyjádření činnosti <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc nebo /o pro mluvení mimo postavu <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch hodnota, kde hodnota je od 0.85 do 1.45, pro změnu výšky hlasu hráče, nebo jen /pitch pro zobrazení aktuální výšky hlasu <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm jméno nebo /p jméno pro odeslání soukromé zprávy (/r pro odpověď) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy, kde x a y jsou čísla a x je od 1 do 20, pro hod kostkou <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse nebo /sh pro mluvení v kanálu úkrytu <BR>",
+  "SurvivalGuide_TICS_Say": " /say nebo /s pro mluvení normální hlasitostí <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper nebo /w pro šeptání <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell nebo /y pro křik <BR>"
+}

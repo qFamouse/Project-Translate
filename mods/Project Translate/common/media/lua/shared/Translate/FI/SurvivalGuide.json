@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Näytä nykyisen kanavan puhekantama, kun keskusteluikkuna on aktiivinen <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Näytä nykyisen kanavan puhekantama aina <BR><IMAGE:media/ui/tics/icons/mic-on.png> Näytä lähellä olevien radioiden kuunteluetäisyys <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin tai /a puhumiseen ylläpitäjien kanavalla <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Avatarin koko on virheellinen. Avatarisi koon täytyy olla %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> NÄIN LATAAT AVATARISI <BR><TEXT> <SIZE:small>Voit ladata oman avatarkuvan, joka näytetään puhekuplassa 3D-muotokuvan sijaan, kun puhut. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Kuvan leveyden TÄYTYY olla tasan 60 ja korkeuden 80. Läpinäkyvyys on tuettu ja suositeltavaa. <BR><IMAGE:media/ui/tics/icons/upload.png> Kun kuva on siirretty oikeaan hakemistoon, napsauta keskusteluikkunan latauskuvaketta, niin ylläpitäjä voi hyväksyä avatarisi.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Haluatko lähettää tämän avatarin hyväksyntäpyynnön?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b, jossa r,g,b on luku väliltä 0–255, tai /color #FFFFFF pelaajan värin vaihtamiseen, tai pelkkä /color nykyisen värin näyttämiseen <BR>",
+  "SurvivalGuide_TICS_Do": " /do hahmoosi liittymättömän tapahtuman kuvaamiseen (käytä harkiten) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction tai /f puhumiseen ryhmittymän kanavalla <BR>",
+  "SurvivalGuide_TICS_General": " /all tai /g puhumiseen yleiskanavalla <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en kielen vaihtamiseen, jossa en on oppimasi kielen koodi <BR>",
+  "SurvivalGuide_TICS_Low": " /low tai /l hiljaa puhumiseen <BR>",
+  "SurvivalGuide_TICS_Markdown": " tähtien * tai ** väliin kirjoitettu teksti värjätään eri värillä (**teksti**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me toiminnan kuvaamiseen <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc tai /o puhumiseen hahmon ulkopuolelta <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch arvo, jossa arvo on väliltä 0,85–1,45, pelaajan äänenkorkeuden vaihtamiseen, tai pelkkä /pitch nykyisen äänenkorkeuden näyttämiseen <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm käyttäjänimi tai /p käyttäjänimi yksityisviestin lähettämiseen (/r vastaamiseen) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy, jossa x ja y ovat lukuja ja x on väliltä 1–20, nopanheittoon <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse tai /sh puhumiseen turvapaikan kanavalla <BR>",
+  "SurvivalGuide_TICS_Say": " /say tai /s normaalilla äänenvoimakkuudella puhumiseen <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper tai /w kuiskaamiseen <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell tai /y huutamiseen <BR>"
+}

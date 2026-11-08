@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> 채팅에 집중했을 때 현재 채널의 말하기 범위 표시 <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> 현재 채널의 말하기 범위를 항상 표시 <BR><IMAGE:media/ui/tics/icons/mic-on.png> 주변 라디오의 청취 범위 표시 <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin 또는 /a: 관리자 채널로 말하기 <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>잘못된 크기의 아바타가 발견되었습니다. 아바타 크기는 %1x%2여야 합니다.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> 아바타 업로드 방법 <BR><TEXT> <SIZE:small>3D 초상화 대신 말할 때 플레이어 말풍선에 표시되는 사용자 지정 아바타 이미지를 업로드할 수 있습니다. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>이미지는 반드시 가로 60, 세로 80이어야 합니다. 투명도를 지원하며 권장합니다. <BR><IMAGE:media/ui/tics/icons/upload.png> 이미지를 올바른 폴더로 옮긴 후 채팅창의 업로드 아이콘을 클릭하면 관리자가 아바타를 승인할 수 있도록 업로드됩니다.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>이 아바타에 대한 승인 요청을 보내시겠습니까?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b (r,g,b는 0에서 255 사이의 숫자) 또는 /color #FFFFFF: 플레이어 색상 변경, /color만 입력하면 현재 색상 확인 <BR>",
+  "SurvivalGuide_TICS_Do": " /do: 캐릭터와 무관한 상황 묘사 (신중하게 사용하세요) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction 또는 /f: 팩션 채널로 말하기 <BR>",
+  "SurvivalGuide_TICS_General": " /all 또는 /g: 전체 채널로 말하기 <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en (en은 배운 언어 코드): 언어 전환 <BR>",
+  "SurvivalGuide_TICS_Low": " /low 또는 /l: 낮은 목소리로 말하기 <BR>",
+  "SurvivalGuide_TICS_Markdown": " *또는 **로 감싼 텍스트는 다른 색상으로 표시됩니다 (**텍스트**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me: 행동 묘사 <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc 또는 /o: 캐릭터 외 대화하기 <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch 값 (값은 0.85에서 1.45 사이): 플레이어 음성 높낮이 변경, /pitch만 입력하면 현재 높낮이 확인 <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm 사용자이름 또는 /p 사용자이름: 개인 메시지 보내기 (/r로 답장) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy (x와 y는 숫자, x는 1에서 20 사이): 주사위 굴리기 <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse 또는 /sh: 안전가옥 채널로 말하기 <BR>",
+  "SurvivalGuide_TICS_Say": " /say 또는 /s: 보통 음량으로 말하기 <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper 또는 /w: 속삭이기 <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell 또는 /y: 소리치기 <BR>"
+}
