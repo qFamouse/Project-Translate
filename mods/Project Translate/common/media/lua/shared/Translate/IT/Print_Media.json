@@ -63,6 +63,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Ricostruzione e recupero",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "STRANI TRUCCHI DI CUCINA SELVATICA",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "CONTEA DI KNOX — K.E.R.A.\nAVVISO DI EMERGENZA\nK.E.R.A. — Knox Emergency Response Authority\nSOLO PER USO INTERNO — RISERVATO\n\nSTADI DELL'INFEZIONE\n\nAVVISO DI EMERGENZA\nNella contea di Knox è stato osservato un nuovo ceppo, o un nuovo comportamento.\nGli infetti mostrano maggiore mobilità, aggressività e coordinazione in diverse aree.\nLa situazione sta peggiorando. Evitate qualsiasi contatto, segnalate immediatamente gli avvistamenti alla K.E.R.A. e restate al chiuso fino a nuovo avviso.\n\nINFETTO STADIO 1 — SHAMBLER\nLento, instabile, spesso visto in gruppo.\n\nINFETTO STADIO 2 — FAST SHAMBLER\nMovimenti più rapidi, più persistente, attratto dai bersagli vicini.\n\nINFETTO STADIO 3 — RUNNER\nMolto aggressivo, riduce rapidamente le distanze.\n\nINFETTO STADIO 4\nNota scritta a mano: STALKER\n- silenzioso\n- protuberanze sulla schiena\n- non è come gli altri\n- non avvicinarti\n- molto pericoloso\n\nNote scritte a mano a margine:\nContinuano a CAMBIARE!\nRestate dentro.\nQuesto non è normale.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Stadi dell'infezione",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "STRANI TRUCCHI DI CUCINA SELVATICA"
 }

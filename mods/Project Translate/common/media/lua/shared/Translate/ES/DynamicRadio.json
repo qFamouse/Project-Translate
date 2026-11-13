@@ -1,4 +1,6 @@
 {
+  "AEBS_YANMC_SanitationActive": "Equipos de saneamiento operando dentro de la zona de exclusión. Los contactos desconocidos serán liquidados.",
+  "AEBS_YANMC_SanitationWithdrawal": "Protocolo de saneamiento suspendido. Todos los equipos de campo regresen a los puntos de recogida designados.",
   "ImmersiveBlackouts_Radio_End": "Fin de la transmisión. Próxima comprobación automática en una hora.",
   "ImmersiveBlackouts_Radio_Intro_01": "<bzzt> Uno, cinco, tres. <wzzt>.",
   "ImmersiveBlackouts_Radio_Intro_02": "Servicio Regional de Infraestructura de Emergencia de Knox. Sistema automatizado de emisión de emergencia.",

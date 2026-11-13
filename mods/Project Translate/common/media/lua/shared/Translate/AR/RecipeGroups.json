@@ -1,8 +1,10 @@
 {
+  "RecipeGroup_AnruisiTown": "Anruisi Town",
   "RecipeGroup_CraftMechWindow": "Fabricar ventanilla de vehículo",
   "RecipeGroup_CraftTireStack": "Fabricar pila de neumáticos",
   "RecipeGroup_CraftWheel": "Fabricar rueda",
   "RecipeGroup_CraftWindshield": "Fabricar parabrisas",
   "RecipeGroup_EXILIUM": "Tienda de atuendos Exilium",
-  "RecipeGroup_EXILIUMWeapon": "Tienda de armas Exilium"
+  "RecipeGroup_EXILIUMWeapon": "Tienda de armas Exilium",
+  "RecipeGroup_OpenCannedFood": "Abrir comida enlatada"
 }

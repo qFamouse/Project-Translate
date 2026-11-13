@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOPLAM İMMERSİVE SOHBET SİSTEMİ <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Sohbet odaktayken geçerli kanalın konuşma menzilini göster <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Geçerli kanalın konuşma menzilini her zaman göster <BR><IMAGE:media/ui/tics/icons/mic-on.png> Çevredeki telsizlerin dinleme menzilini göster <BR>",
+  "SurvivalGuide_TICS_Admin": " Yönetici kanalında konuşmak için /admin veya /a <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>Geçersiz boyutta avatar bulundu. Avatar boyutun %1x%2 olmalıdır.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> AVATARINI NASIL YÜKLERSİN <BR><TEXT> <SIZE:small>Konuşurken oyuncu balonunda 3D portre yerine görüntülenecek özel bir avatar resmi yüklemek mümkündür. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Resim genişliği tam olarak 60, yüksekliği tam olarak 80 OLMALIDIR. Saydamlık desteklenir ve tavsiye edilir. <BR><IMAGE:media/ui/tics/icons/upload.png> Resmi doğru dizine taşıdıktan sonra, bir yöneticinin avatarını onaylayabilmesi için sohbet penceresindeki yükleme simgesine tıkla.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Bu avatar için onay isteği göndermek istiyor musun?",
+  "SurvivalGuide_TICS_Color": "Oyuncu rengini güncellemek için /color r,g,b (r,g,b 0 ile 255 arasında bir sayıdır) veya /color #FFFFFF, mevcut rengi görmek için sadece /color <BR>",
+  "SurvivalGuide_TICS_Do": " Karakterinle ilgisi olmayan bir olayı belirtmek için /do (bunu akıllıca kullan) <BR>",
+  "SurvivalGuide_TICS_Faction": " Hizip kanalıyla konuşmak için /faction veya /f <BR>",
+  "SurvivalGuide_TICS_General": " Genel kanalla konuşmak için /all veya /g <BR>",
+  "SurvivalGuide_TICS_Languages": "Dili değiştirmek için /language en (en, öğrendiğin bir dil kodudur) <BR>",
+  "SurvivalGuide_TICS_Low": " Alçak sesle konuşmak için /low veya /l <BR>",
+  "SurvivalGuide_TICS_Markdown": " * veya ** arasına yazılan metin farklı renkte görünür (**metin**) <BR>",
+  "SurvivalGuide_TICS_Me": " Bir eylemi belirtmek için /me <BR>",
+  "SurvivalGuide_TICS_Ooc": " Karakter dışı konuşmak için /ooc veya /o <BR>",
+  "SurvivalGuide_TICS_Pitch": "Oyuncu ses perdesini güncellemek için /pitch değer (değer 0.85 ile 1.45 arasındadır), mevcut perdeyi görmek için sadece /pitch <BR>",
+  "SurvivalGuide_TICS_Pm": " Özel mesaj göndermek için /pm kullanıcıadı veya /p kullanıcıadı (yanıtlamak için /r) <BR>",
+  "SurvivalGuide_TICS_Roll": "Zar atmak için /roll xdy (x ve y sayıdır, x 1 ile 20 arasındadır) <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " Sığınak kanalıyla konuşmak için /safehouse veya /sh <BR>",
+  "SurvivalGuide_TICS_Say": " Normal ses tonunda konuşmak için /say veya /s <BR>",
+  "SurvivalGuide_TICS_Whisper": " Fısıldamak için /whisper veya /w <BR>",
+  "SurvivalGuide_TICS_Yell": " Bağırmak için /yell veya /y <BR>"
+}

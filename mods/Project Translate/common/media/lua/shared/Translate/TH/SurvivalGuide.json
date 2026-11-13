@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> แสดงระยะการพูดของช่องปัจจุบันเมื่อโฟกัสที่แชท <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> แสดงระยะการพูดของช่องปัจจุบันตลอดเวลา <BR><IMAGE:media/ui/tics/icons/mic-on.png> แสดงระยะการฟังของวิทยุโดยรอบ <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin หรือ /a เพื่อพูดในช่องแอดมิน <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>พบอวาตาร์ที่มีขนาดไม่ถูกต้อง ขนาดอวาตาร์ของคุณต้องเป็น %1x%2",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> วิธีอัปโหลดอวาตาร์ของคุณ <BR><TEXT> <SIZE:small>คุณสามารถอัปโหลดรูปอวาตาร์แบบกำหนดเองเพื่อแสดงในบับเบิลของผู้เล่นขณะพูดแทนรูปโปรไฟล์ 3 มิติได้ <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>รูปภาพต้องมีความกว้าง 60 และความสูง 80 พอดีเท่านั้น รองรับพื้นหลังโปร่งใสและแนะนำให้ใช้ <BR><IMAGE:media/ui/tics/icons/upload.png> เมื่อย้ายรูปภาพไปยังไดเรกทอรีที่ถูกต้องแล้ว ให้คลิกไอคอนอัปโหลดบนหน้าต่างแชทเพื่ออัปโหลด เพื่อให้แอดมินอนุมัติอวาตาร์ของคุณ",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>คุณต้องการส่งคำขออนุมัติอวาตาร์นี้หรือไม่?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b โดย r,g,b เป็นตัวเลขตั้งแต่ 0 ถึง 255 หรือ /color #FFFFFF เพื่ออัปเดตสีของผู้เล่น หรือใช้เพียง /color เพื่อดูสีปัจจุบัน <BR>",
+  "SurvivalGuide_TICS_Do": " /do เพื่อแสดงเหตุการณ์ที่ไม่เกี่ยวกับตัวละครของคุณ (ใช้อย่างระมัดระวัง) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction หรือ /f เพื่อพูดในช่องแฟคชัน <BR>",
+  "SurvivalGuide_TICS_General": " /all หรือ /g เพื่อพูดในช่องทั่วไป <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en เพื่อสลับภาษา โดย en คือรหัสภาษาที่คุณเรียนรู้แล้ว <BR>",
+  "SurvivalGuide_TICS_Low": " /low หรือ /l เพื่อพูดเบา ๆ <BR>",
+  "SurvivalGuide_TICS_Markdown": " ข้อความที่เขียนไว้ระหว่าง * หรือ ** จะมีสีต่างออกไป (**ข้อความ**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me เพื่อแสดงการกระทำ <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc หรือ /o เพื่อพูดนอกบทบาท <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch ค่า โดยค่าตั้งแต่ 0.85 ถึง 1.45 เพื่ออัปเดตระดับเสียงของผู้เล่น หรือใช้เพียง /pitch เพื่อดูระดับเสียงปัจจุบัน <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm ชื่อผู้ใช้ หรือ /p ชื่อผู้ใช้ เพื่อส่งข้อความส่วนตัว (/r เพื่อตอบกลับ) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy โดย x และ y เป็นตัวเลข และ x ตั้งแต่ 1 ถึง 20 เพื่อทอยลูกเต๋า <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse หรือ /sh เพื่อพูดในช่องเซฟเฮาส์ <BR>",
+  "SurvivalGuide_TICS_Say": " /say หรือ /s เพื่อพูดด้วยระดับเสียงปกติ <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper หรือ /w เพื่อกระซิบ <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell หรือ /y เพื่อตะโกน <BR>"
+}

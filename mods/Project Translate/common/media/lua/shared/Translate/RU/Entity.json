@@ -1,4 +1,8 @@
 {
+  "AVS_ImprovisedBatteryHotplate": "Установить самодельную электроплитку на аккумуляторе",
+  "AVS_ImprovisedBatteryHotplate_BuildDescription": "Установите готовую самодельную электроплитку на аккумуляторе из инвентаря. Ниже показан рецепт переделки из тостера и значки материалов.",
+  "EC_AVS_ImprovisedBatteryHotplate": "Установить самодельную электроплитку на аккумуляторе",
+  "EC_AVS_ImprovisedBatteryHotplate_BuildDescription": "Установите готовую самодельную электроплитку на аккумуляторе из инвентаря. Ниже показан рецепт переделки из тостера и значки материалов.",
   "EC_DC_AdvancedDryingStation": "Улучшенная сушилка",
   "EC_DC_BasicDryingStation": "Простая сушилка",
   "EC_DC_ProfessionalDryingStation": "Профессиональная сушилка",
@@ -33,5 +37,13 @@
   "EC_IF_WorkstationDefaultDesc": "Используйте это рабочее место для создания предметов.",
   "EC_RadArcheryTarget": "Мишень для стрельбы из лука",
   "EC_Weight": "Вес",
-  "HEADER_Entity_EN_RadArchery": "RadArchery"
+  "Entity_AVS_ImprovisedBatteryHotplate": "Установить самодельную электроплитку на аккумуляторе",
+  "Entity_AVS_ImprovisedBatteryHotplate_BuildDescription": "Установите готовую самодельную электроплитку на аккумуляторе из инвентаря. Ниже показан рецепт переделки из тостера и значки материалов.",
+  "HEADER_Entity_EN_RadArchery": "RadArchery",
+  "Tooltip_AVS_BatteryHotplate_CraftingMaterials": "Чтобы создать портативную электроплитку: Электрика 2; установленный в мире тостер, 1 лист металла, 2 электропровода, 2 медных лома, 2 электронных лома, 4 самореза; отвёртка, плоскогубцы и ножницы по металлу.",
+  "Tooltip_AVS_BatteryHotplate_CraftingRequirements": "Требования для создания",
+  "Tooltip_AVS_BatteryHotplate_ElectricalSkill": "Электрика",
+  "Tooltip_AVS_BatteryHotplate_Placed": "установлено",
+  "Tooltip_AVS_BatteryHotplate_Screwdriver": "Отвёртка",
+  "Tooltip_AVS_BatteryHotplate_ToolsRetained": "Инструменты сохраняются. Тостер и материалы расходуются."
 }

@@ -1,8 +1,10 @@
 {
+  "RecipeGroup_AnruisiTown": "Anruisi Town",
   "RecipeGroup_CraftMechWindow": "Fremstil køretøjsrude",
   "RecipeGroup_CraftTireStack": "Fremstil dækstak",
   "RecipeGroup_CraftWheel": "Fremstil hjul",
   "RecipeGroup_CraftWindshield": "Fremstil forrude",
   "RecipeGroup_EXILIUM": "Exilium-tøjbutik",
-  "RecipeGroup_EXILIUMWeapon": "Exilium-våbenbutik"
+  "RecipeGroup_EXILIUMWeapon": "Exilium-våbenbutik",
+  "RecipeGroup_OpenCannedFood": "Åbn dåsemad"
 }

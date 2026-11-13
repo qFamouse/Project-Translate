@@ -53,6 +53,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - 재조립 및 해체",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "야생 요리의 기이한 비법",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "녹스 카운티 — K.E.R.A.\n긴급 공지\nK.E.R.A. — 녹스 긴급 대응 당국\n내부 전용 — 기밀\n\n감염 단계\n\n긴급 공지\n녹스 카운티에서 새로운 변종, 혹은 새로운 행동 양상이 관찰되었습니다.\n감염자들의 이동이 늘고, 공격성이 강해졌으며, 여러 지역에서 협동하는 모습이 나타나고 있습니다.\n상황은 악화되고 있습니다. 모든 접촉을 피하고, 목격 시 즉시 K.E.R.A.에 보고하며, 추가 공지가 있을 때까지 실내에 머무르십시오.\n\n감염자 1단계 — 셔플러\n느리고 불안정하며, 무리 지어 다니는 경우가 많다.\n\n감염자 2단계 — 빠른 셔플러\n움직임이 더 빠르고 집요하며, 가까이 있는 목표에 이끌린다.\n\n감염자 3단계 — 러너\n매우 공격적이며, 순식간에 거리를 좁힌다.\n\n감염자 4단계\n손글씨 메모: 스토커\n- 소리가 없다\n- 등에 혹이 불거져 있다\n- 다른 놈들과 다르다\n- 가까이 가지 마라\n- 매우 위험하다\n\n여백의 손글씨 메모:\n계속 변하고 있어!\n안에 있어.\n정상이 아니야.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "감염 단계",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "야생 요리의 기이한 비법"
 }

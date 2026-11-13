@@ -65,6 +65,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Yeniden İnşa ve Parça Kurtarma",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "DOĞADA YEMEK PİŞİRMENİN GARİP PÜF NOKTALARI",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "KNOX COUNTY — K.E.R.A.\nACİL DURUM BİLDİRİSİ\nK.E.R.A. — Knox Acil Müdahale Otoritesi\nSADECE DAHİLİ KULLANIM İÇİNDİR — GİZLİDİR\n\nENFEKSİYON EVRELERİ\n\nACİL DURUM BİLDİRİSİ\nKnox County'de yeni bir tür ya da yeni bir davranış gözlemlendi.\nEnfekte olanlar birden fazla bölgede artan hareketlilik, saldırganlık ve koordinasyon sergiliyor.\nDurum giderek kötüleşiyor. Her türlü temastan kaçının, gördüğünüz her şeyi derhal K.E.R.A.'ya bildirin ve bir sonraki duyuruya kadar içeride kalın.\n\nENFEKTE EVRE 1 — SENDELEYEN\nYavaş, dengesiz, çoğunlukla gruplar halinde görülüyor.\n\nENFEKTE EVRE 2 — HIZLI SENDELEYEN\nDaha hızlı hareket ediyor, daha ısrarcı, yakındaki hedeflere yöneliyor.\n\nENFEKTE EVRE 3 — KOŞAN\nÇok saldırgan, mesafeyi hızla kapatıyor.\n\nENFEKTE EVRE 4\nEl yazısıyla not: STALKER\n- sessiz\n- sırtında şişlikler var\n- diğerlerine benzemiyor\n- yaklaşmayın\n- çok tehlikeli\n\nKenar boşluğundaki el yazısı notlar:\nSürekli DEĞİŞİYORLAR!\nİçeride kalın.\nBu normal değil.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Enfeksiyon Evreleri",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "DOĞADA YEMEK PİŞİRMENİN GARİP PÜF NOKTALARI"
 }

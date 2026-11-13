@@ -53,6 +53,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Remont i odzysk części",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "DZIWNE SZTUCZKI GOTOWANIA W DZICZY",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "HRABSTWO KNOX — K.E.R.A.\nKOMUNIKAT ALARMOWY\nK.E.R.A. — Knox Emergency Response Authority\nTYLKO DO UŻYTKU WEWNĘTRZNEGO — POUFNE\n\nETAPY ZAKAŻENIA\n\nKOMUNIKAT ALARMOWY\nW hrabstwie Knox zaobserwowano nowy szczep — lub nowe zachowanie.\nZarażeni wykazują zwiększoną ruchliwość i agresję, a także skoordynowane działania na wielu obszarach.\nSytuacja się zaostrza. Unikaj jakiegokolwiek kontaktu, niezwłocznie zgłaszaj zauważenie zarażonych do K.E.R.A. i do odwołania pozostań w domu.\n\nZARAŻONY, ETAP 1 — CZŁAPACZ\nPowolny, chwiejny, często widywany w grupach.\n\nZARAŻONY, ETAP 2 — SZYBKI CZŁAPACZ\nPoruszają się szybciej, są bardziej uporczywi i ruszają w stronę pobliskich celów.\n\nZARAŻONY, ETAP 3 — BIEGACZ\nBardzo agresywny, szybko skraca dystans.\n\nZARAŻONY, ETAP 4\nNotatka odręczna: STALKER\n- cichy\n- wypukłości na plecach\n- inny niż pozostali\n- nie zbliżaj się\n- bardzo niebezpieczny\n\nNotatki odręczne na marginesie:\nOni wciąż SIĘ ZMIENIAJĄ!\nZostańcie w środku.\nTo nie jest normalne.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Etapy zakażenia",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "DZIWNE SZTUCZKI GOTOWANIA W DZICZY"
 }

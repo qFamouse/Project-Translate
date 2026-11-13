@@ -65,6 +65,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Відновлення та розбирання",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "ДИВНІ ХИТРОЩІ ПРИГОТУВАННЯ ЇЖІ В ДИКІЙ ПРИРОДІ",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "ГРАФСТВО НОКС — K.E.R.A.\nТЕРМІНОВЕ ПОВІДОМЛЕННЯ\nK.E.R.A. — Knox Emergency Response Authority\nТІЛЬКИ ДЛЯ ВНУТРІШНЬОГО КОРИСТУВАННЯ — КОНФІДЕНЦІЙНО\n\nСТАДІЇ ЗАРАЖЕННЯ\n\nТЕРМІНОВЕ ПОВІДОМЛЕННЯ\nУ графстві Нокс зафіксовано новий штам — або нову поведінку.\nЗаражені виявляють підвищену рухливість, агресивність і злагодженість у різних районах.\nСитуація загострюється. Уникайте будь-якого контакту, негайно повідомляйте K.E.R.A. про помічених заражених і залишайтеся в укритті до подальших вказівок.\n\nЗАРАЖЕНИЙ, СТАДІЯ 1 — ШАМБЛЕР\nПовільний, нестійкий, часто трапляється групами.\n\nЗАРАЖЕНИЙ, СТАДІЯ 2 — ШВИДКИЙ ШАМБЛЕР\nРухається швидше, наполегливіший, реагує на цілі поблизу.\n\nЗАРАЖЕНИЙ, СТАДІЯ 3 — БІГУН\nДуже агресивний, швидко скорочує дистанцію.\n\nЗАРАЖЕНИЙ, СТАДІЯ 4\nНотатка від руки: СТАЛКЕР\n- безшумний\n- на спині горби\n- не схожий на решту\n- не підходьте близько\n- дуже небезпечний\n\nНотатки від руки на полях:\nВони постійно ЗМІНЮЮТЬСЯ!\nСидіть вдома.\nЦе ненормально.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Стадії зараження",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "ДИВНІ ХИТРОЩІ ПРИГОТУВАННЯ ЇЖІ В ДИКІЙ ПРИРОДІ"
 }

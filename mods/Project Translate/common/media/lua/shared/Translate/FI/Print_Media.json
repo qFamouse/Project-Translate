@@ -71,6 +71,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Kunnostus ja osien kierrätys",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "ERÄMAARUOANLAITON OUDOT KIKAT",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "KNOXIN PIIRIKUNTA — K.E.R.A.\nHÄTÄILMOITUS\nK.E.R.A. — Knoxin hätäapuviranomainen\nVAIN SISÄISEEN KÄYTTÖÖN — LUOTTAMUKSELLINEN\n\nTARTUNNAN VAIHEET\n\nHÄTÄILMOITUS\nKnoxin piirikunnassa on havaittu uusi kanta — tai uusi käyttäytymismalli.\nTartunnan saaneet liikkuvat entistä enemmän, ovat aggressiivisempia ja toimivat koordinoidusti usealla alueella.\nTilanne kärjistyy. Vältä kaikkea kontaktia, ilmoita havainnot välittömästi K.E.R.A.:lle ja pysy sisätiloissa, kunnes toisin ilmoitetaan.\n\nTARTUNTA, VAIHE 1 — KOMPUROIJA\nHidas, epävakaa, nähdään usein ryhmissä.\n\nTARTUNTA, VAIHE 2 — NOPEA KOMPUROIJA\nLiikkuu nopeammin, sinnikkäämpi, houkuttuu lähellä oleviin kohteisiin.\n\nTARTUNTA, VAIHE 3 — JUOKSIJA\nErittäin aggressiivinen, lyhentää etäisyyden nopeasti.\n\nTARTUNTA, VAIHE 4\nKäsin kirjoitettu merkintä: STALKER\n- hiljainen\n- selässä kyhmyjä\n- ei kuin muut\n- älä mene lähelle\n- erittäin vaarallinen\n\nKäsin kirjoitettuja merkintöjä marginaalissa:\nNe MUUTTUVAT koko ajan!\nPysy sisällä.\nTämä ei ole normaalia.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Tartunnan vaiheet",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "ERÄMAARUOANLAITON OUDOT KIKAT"
 }

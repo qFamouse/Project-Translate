@@ -71,6 +71,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Reconstrucție și recuperare",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "TRUCURI CIUDATE DE GĂTIT ÎN SĂLBĂTICIE",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "COMITATUL KNOX — K.E.R.A.\nANUNȚ DE URGENȚĂ\nK.E.R.A. — Autoritatea de Intervenție în Situații de Urgență din Knox\nDOAR PENTRU UZ INTERN — CONFIDENȚIAL\n\nSTADIILE INFECȚIEI\n\nANUNȚ DE URGENȚĂ\nÎn Comitatul Knox a fost observată o tulpină nouă sau un comportament nou.\nInfectații manifestă mișcare, agresivitate și coordonare sporite în mai multe zone.\nSituația escaladează. Evitați orice contact, raportați imediat observațiile către K.E.R.A. și rămâneți în interior până la noi ordine.\n\nINFECTAT STADIUL 1 — SHAMBLER\nLent, instabil, adesea văzut în grupuri.\n\nINFECTAT STADIUL 2 — SHAMBLER RAPID\nMișcare mai rapidă, mai persistent, atras de țintele din apropiere.\n\nINFECTAT STADIUL 3 — RUNNER\nExtrem de agresiv, închide rapid distanța.\n\nINFECTAT STADIUL 4\nNotă scrisă de mână: STALKER\n- silențios\n- umflături pe spate\n- nu seamănă cu ceilalți\n- nu vă apropiați\n- foarte periculos\n\nNote scrise de mână pe margine:\nSe SCHIMBĂ întruna!\nRămâneți înăuntru.\nNu e normal.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Stadiile infecției",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "TRUCURI CIUDATE DE GĂTIT ÎN SĂLBĂTICIE"
 }

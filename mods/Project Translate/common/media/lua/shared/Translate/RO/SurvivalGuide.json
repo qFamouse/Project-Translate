@@ -1,0 +1,23 @@
+{
+  "SurvivalGuide_TICS": " <H1> TOTAL IMMERSIVE CHAT SYSTEM <BR><TEXT> <SIZE:medium><CENTRE> %1 <BR><TEXT> <SIZE:small><IMAGE:media/ui/tics/icons/eye-on.png> Afișează raza de vorbire a canalului curent când chatul este activ <BR><IMAGE:media/ui/tics/icons/eye-on-plus.png> Afișează întotdeauna raza de vorbire a canalului curent <BR><IMAGE:media/ui/tics/icons/mic-on.png> Afișează raza de ascultare a stațiilor radio din apropiere <BR>",
+  "SurvivalGuide_TICS_Admin": " /admin sau /a pentru a vorbi pe canalul administratorilor <BR>",
+  "SurvivalGuide_TICS_AvatarSizeError": " <TEXT> <SIZE:small>A fost găsit un avatar cu dimensiune nevalidă. Dimensiunea avatarului tău trebuie să fie %1x%2.",
+  "SurvivalGuide_TICS_AvatarUploadHelp": " <H1> CUM ÎȚI ÎNCARCI AVATARUL <BR><TEXT> <SIZE:small>Este posibil să încarci o imagine de avatar personalizată, care va fi afișată în balonul jucătorului când vorbește, în locul unui portret 3D. <BR><CENTRE> %2 <BR><TEXT> <SIZE:small>Imaginea TREBUIE să aibă exact 60 lățime și 80 înălțime. Transparența este acceptată și recomandată. <BR><IMAGE:media/ui/tics/icons/upload.png> După ce imaginea a fost mutată în directorul corect, apasă pe pictograma de încărcare din fereastra de chat pentru a o încărca, astfel încât un administrator să îți poată aproba avatarul.",
+  "SurvivalGuide_TICS_AvatarUploadPrompt": " <TEXT> <SIZE:small>Vrei să trimiți o cerere de aprobare pentru acest avatar?",
+  "SurvivalGuide_TICS_Color": "/color r,g,b cu r,g,b un număr de la 0 la 255 sau /color #FFFFFF pentru a schimba culoarea jucătorului, ori doar /color pentru a vedea culoarea curentă <BR>",
+  "SurvivalGuide_TICS_Do": " /do pentru a exprima un eveniment fără legătură cu personajul tău (folosește-l cu grijă) <BR>",
+  "SurvivalGuide_TICS_Faction": " /faction sau /f pentru a vorbi pe canalul facțiunii <BR>",
+  "SurvivalGuide_TICS_General": " /all sau /g pentru a vorbi pe canalul general <BR>",
+  "SurvivalGuide_TICS_Languages": "/language en pentru a schimba limba, unde en este un cod de limbă pe care l-ai învățat <BR>",
+  "SurvivalGuide_TICS_Low": " /low sau /l pentru a vorbi încet <BR>",
+  "SurvivalGuide_TICS_Markdown": " textul scris între * sau ** va fi colorat diferit (**text**) <BR>",
+  "SurvivalGuide_TICS_Me": " /me pentru a exprima o acțiune <BR>",
+  "SurvivalGuide_TICS_Ooc": " /ooc sau /o pentru a vorbi în afara rolului <BR>",
+  "SurvivalGuide_TICS_Pitch": "/pitch valoare cu valoarea de la 0.85 la 1.45 pentru a schimba tonalitatea vocii jucătorului, ori doar /pitch pentru a vedea tonalitatea curentă <BR>",
+  "SurvivalGuide_TICS_Pm": " /pm nume_utilizator sau /p nume_utilizator pentru a trimite un mesaj privat (/r pentru a răspunde) <BR>",
+  "SurvivalGuide_TICS_Roll": "/roll xdy cu x și y numere și x de la 1 la 20 pentru a da cu zarul <BR>",
+  "SurvivalGuide_TICS_SafeHouse": " /safehouse sau /sh pentru a vorbi pe canalul adăpostului <BR>",
+  "SurvivalGuide_TICS_Say": " /say sau /s pentru a vorbi cu volum normal <BR>",
+  "SurvivalGuide_TICS_Whisper": " /whisper sau /w pentru a șopti <BR>",
+  "SurvivalGuide_TICS_Yell": " /yell sau /y pentru a țipa <BR>"
+}

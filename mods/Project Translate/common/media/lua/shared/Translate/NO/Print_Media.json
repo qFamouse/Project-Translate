@@ -71,6 +71,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Ombygging og gjenvinning",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "MERKELIGE TRIKS FOR MATLAGING I VILLMARKEN",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "KNOX COUNTY — K.E.R.A.\nNØDMELDING\nK.E.R.A. — Knox Emergency Response Authority\nKUN TIL INTERN BRUK — KONFIDENSIELT\n\nSTADIER AV INFEKSJON\n\nNØDMELDING\nEn ny stamme — eller en ny atferd — er observert i Knox County.\nDe smittede viser økt bevegelighet, aggresjon og koordinering i flere områder.\nSituasjonen forverres. Unngå all kontakt, meld fra til K.E.R.A. umiddelbart om du ser dem, og hold deg innendørs inntil videre.\n\nSMITTET, STADIE 1 — SKLIRER\nLangsom og ustø, ofte sett i grupper.\n\nSMITTET, STADIE 2 — RASK SKLIRER\nRaskere bevegelser, mer utholdende, tiltrukket av mål i nærheten.\n\nSMITTET, STADIE 3 — LØPER\nSvært aggressiv, tar igjen avstanden raskt.\n\nSMITTET, STADIE 4\nHåndskrevet notat: STALKER\n- stille\n- kuler på ryggen\n- ikke som de andre\n- ikke gå nær\n- svært farlig\n\nHåndskrevne notater i margen:\nDe FORANDRER seg hele tiden!\nBli inne.\nDette er ikke normalt.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "Stadier av infeksjon",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "MERKELIGE TRIKS FOR MATLAGING I VILLMARKEN"
 }

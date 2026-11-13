@@ -71,6 +71,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - Újjáépítés és bontás",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "A VADONBELI FŐZÉS FURCSA TRÜKKJEI",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "KNOX MEGYE — K.E.R.A.\nSÜRGŐSSÉGI KÖZLEMÉNY\nK.E.R.A. — Knox Megyei Vészhelyzeti Reagáló Hatóság\nKIZÁRÓLAG BELSŐ HASZNÁLATRA — BIZALMAS\n\nA FERTŐZÉS SZAKASZAI\n\nSÜRGŐSSÉGI KÖZLEMÉNY\nKnox megyében új törzset – vagy új viselkedést – észleltek.\nA fertőzöttek mozgása, agressziója és összehangoltsága több térségben is fokozódik.\nA helyzet egyre súlyosabb. Kerüljenek minden érintkezést, a észlelt példányokat azonnal jelentsék a K.E.R.A.-nak, és további értesítésig maradjanak bent a házakban.\n\nFERTŐZÖTT, 1. SZAKASZ — CSAPOTT\nLassú, ingatag, gyakran csoportokban látni őket.\n\nFERTŐZÖTT, 2. SZAKASZ — GYORS CSAPOTT\nGyorsabban mozog, kitartóbb, a közelben lévő célpontokra vetődik.\n\nFERTŐZÖTT, 3. SZAKASZ — FUTÓ\nRendkívül agresszív, gyorsan ledolgozza a távolságot.\n\nFERTŐZÖTT, 4. SZAKASZ\nKézzel írt jegyzet: STALKER\n- néma\n- dudorok a hátán\n- nem olyan, mint a többi\n- ne menj a közelébe\n- nagyon veszélyes\n\nKézzel írt jegyzetek a margón:\nFOLYTONOSAN VÁLTOZNAK!\nMaradj bent.\nEz nem normális.",
+  "Print_Media_TLOUStalker_FieldGuide_title": "A fertőzés szakaszai",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "A VADONBELI FŐZÉS FURCSA TRÜKKJEI"
 }

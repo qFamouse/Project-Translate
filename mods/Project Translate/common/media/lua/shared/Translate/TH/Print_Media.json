@@ -71,6 +71,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - สร้างใหม่และกู้ชิ้นส่วน",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "เคล็ดลับแปลกๆ ของการทำอาหารในป่า",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "เทศมณฑลน็อกซ์ — K.E.R.A.\nประกาศฉุกเฉิน\nK.E.R.A. — หน่วยงานตอบโต้เหตุฉุกเฉินแห่งเทศมณฑลน็อกซ์\nใช้ภายในเท่านั้น — ลับ\n\nระยะของการติดเชื้อ\n\nประกาศฉุกเฉิน\nพบเชื้อสายพันธุ์ใหม่ หรือพฤติกรรมรูปแบบใหม่ ในเทศมณฑลน็อกซ์\nผู้ติดเชื้อเคลื่อนไหวมากขึ้น ก้าวร้าวขึ้น และประสานงานกันได้ในหลายพื้นที่\nสถานการณ์กำลังบานปลาย หลีกเลี่ยงการสัมผัสทุกกรณี แจ้งจุดที่พบเห็นให้ K.E.R.A. ทันที และอยู่แต่ในอาคารจนกว่าจะมีประกาศใหม่\n\nผู้ติดเชื้อระยะที่ 1 — เชมเบลอร์\nเชื่องช้า ทรงตัวไม่มั่นคง มักพบเป็นกลุ่ม\n\nผู้ติดเชื้อระยะที่ 2 — เชมเบลอร์เร็ว\nเคลื่อนไหวเร็วขึ้น ไม่ลดละ พุ่งเข้าหาเป้าหมายที่อยู่ใกล้\n\nผู้ติดเชื้อระยะที่ 3 — รันเนอร์\nก้าวร้าวสูง ไล่ประชิดได้อย่างรวดเร็ว\n\nผู้ติดเชื้อระยะที่ 4\nบันทึกลายมือ: สตอล์กเกอร์\n- เงียบสนิท\n- มีก้อนนูนที่หลัง\n- ไม่เหมือนตัวอื่น\n- อย่าเข้าใกล้\n- อันตรายมาก\n\nบันทึกลายมือที่ขอบกระดาษ:\nพวกมันเปลี่ยนไปเรื่อย ๆ!\nอยู่ในบ้านไว้\nนี่ไม่ปกติ",
+  "Print_Media_TLOUStalker_FieldGuide_title": "ระยะของการติดเชื้อ",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "เคล็ดลับแปลกๆ ของการทำอาหารในป่า"
 }

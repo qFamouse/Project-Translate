@@ -65,6 +65,9 @@
   "Print_Media_MSC_WorkshopRebuildGuide_title": "Maskarad - VII - 再生と分解",
   "Print_Media_PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_PsychoFlierPage1_title": "野外調理の奇妙なコツ",
+  "Print_Media_TLOUStalker_FieldGuide_info": "<type:parent, width:561, height:701><type:texture, texture:media/textures/TLOUStalker/FieldGuide.png, x:0, y:0, width:561, height:701>",
+  "Print_Media_TLOUStalker_FieldGuide_text": "ノックス郡 — K.E.R.A.\n緊急通達\nK.E.R.A. — ノックス緊急対応局\n部外秘 — 機密\n\n感染の段階\n\n緊急通達\nノックス郡で新たな株、あるいは新たな行動パターンが確認されました。\n感染者の動きが活発化し、攻撃性が増し、複数の地域で連携した行動が見られます。\n事態は悪化しています。いかなる接触も避け、目撃した場合は直ちにK.E.R.A.へ報告し、追って通達があるまで屋内に留まってください。\n\n感染第1段階 — シャンブラー\n動きは遅く不安定。集団で目撃されることが多い。\n\n感染第2段階 — ファスト・シャンブラー\n動きが速く、しつこい。近くの標的に引き寄せられる。\n\n感染第3段階 — ランナー\n極めて攻撃的で、素早く距離を詰めてくる。\n\n感染第4段階\n手書きのメモ:ストーカー\n- 音を立てない\n- 背中に膨らみがある\n- 他の連中とは違う\n- 近づくな\n- 非常に危険\n\n余白の手書きメモ:\nあいつらは変わり続けてる!\n中にいろ。\nこれは普通じゃない。",
+  "Print_Media_TLOUStalker_FieldGuide_title": "感染の段階",
   "Print_Media_pk42:PsychoFlierPage1_info": "<type:parent, width:1024, height:1536><type:texture, x:0, y:0, texture:media/textures/printMedia/FlyerPic/psychoFlier1.png, width:1024, height:1536>",
   "Print_Media_pk42:PsychoFlierPage1_title": "野外調理の奇妙なコツ"
 }

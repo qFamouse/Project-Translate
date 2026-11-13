@@ -1,4 +1,8 @@
 {
+  "AVS_ImprovisedBatteryHotplate": "放置简易电池电热板",
+  "AVS_ImprovisedBatteryHotplate_BuildDescription": "放置一个背包中已制作完成的简易电池电热板。下方显示烤面包机改装配方及其材料图标。",
+  "EC_AVS_ImprovisedBatteryHotplate": "放置简易电池电热板",
+  "EC_AVS_ImprovisedBatteryHotplate_BuildDescription": "放置一个背包中已制作完成的简易电池电热板。下方显示烤面包机改装配方及其材料图标。",
   "EC_Artel_BarExtruder": "工业能量棒挤出机",
   "EC_Artel_Bioreactor": "生物反应器",
   "EC_Artel_Cellar": "地窖",
@@ -15,5 +19,13 @@
   "EC_Artel_WellMotor": "电动水泵",
   "EC_Artel_WellPipe": "井管",
   "EC_Weight": "重量",
-  "HEADER_Entity_EN_RadArchery": "RadArchery"
+  "Entity_AVS_ImprovisedBatteryHotplate": "放置简易电池电热板",
+  "Entity_AVS_ImprovisedBatteryHotplate_BuildDescription": "放置一个背包中已制作完成的简易电池电热板。下方显示烤面包机改装配方及其材料图标。",
+  "HEADER_Entity_EN_RadArchery": "RadArchery",
+  "Tooltip_AVS_BatteryHotplate_CraftingMaterials": "制作便携式电热板:电工 2;一台已放置在地面上的烤面包机、1 个金属板、2 根电线、2 个废铜、2 个电子废料、4 颗螺丝;螺丝刀、钳子和铁皮剪。",
+  "Tooltip_AVS_BatteryHotplate_CraftingRequirements": "制作要求",
+  "Tooltip_AVS_BatteryHotplate_ElectricalSkill": "电工",
+  "Tooltip_AVS_BatteryHotplate_Placed": "已放置",
+  "Tooltip_AVS_BatteryHotplate_Screwdriver": "螺丝刀",
+  "Tooltip_AVS_BatteryHotplate_ToolsRetained": "工具会保留。烤面包机和材料会被消耗。"
 }
